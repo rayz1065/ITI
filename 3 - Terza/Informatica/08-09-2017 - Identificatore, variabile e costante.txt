@@ -1,0 +1,12 @@
+Esaminare un elenco di persone con nome e anno di nascita.
+Contare le persone che hanno pià di 20 anni di età e fornire il risultato del conteggio.
+
+IDENTIFICATORE:		VARIABILE O COSTANTE:		DESCRIZIONE:		TIPO:
+Nome				Variabile					Nome persone		Alfabetico
+Anno				Variabile					Anno persone		Numerico
+AnnoRiferimento		Costante (di valore 20)		Anni minimi			Numerico
+Conteggio			Variabile					Conteggio persone	Numerico
+AnnoAttuale			Costante (di valore 2017)	Anno attuale		Numerico
+Eta					Variabile					Età persone			Numerico
+
+(esercizi pagina 69)

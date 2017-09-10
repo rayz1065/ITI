@@ -1,0 +1,33 @@
+Nell'informatica sono molto importarti le informazioni ricevute e date in maniera veloce.
+
+Quest anno studieremo:
+- Algoritmi avanzati
+- C e C++ (estenzione di C)
+- Gestire un sistema informatico
+
+Sul web ci sono utilizzatori e informatici (con conoscenze approfondite), noi dobbiamo puntare a rientrare nella seconda.
+
+DATO -> Misura
+INFORMAZIONE -> Elaborazione del DATO
+AZIONI -> Verbi, operazioni logico-aritmetiche da svolgere
+
+In informatica è importante raccogliere diversi dati e rielaborarli per creare informazioni
+
+Discriminazione dei tati: 
+Più dati -> migliore "diagnosi", ma bisogna scartare quelli soperflui con elevata velocità. (esempio medico)
+
+Nel secolo scorso si è sviluppata l'informatica.
+
+Parlando di computer introduciamo "sistema":
+Sistema -> Insieme finito di elementi che interagiscono fra di loro per raggiungere l'obiettivo.
+
+Sistema POLITICO
+Sistema OPERATIVO
+Sistema NERVOSO
+Sistema DI ELABORAZIONE
+
+Pensiamo che nel computer i dati devono essere capiti, per fare ciò si usano dei LINGUAGGI
+Linguaggi NATURALI (inglese,italiano)
+Linguaggi FORMALI (matematica)
+
+Le "parole" in informatica sono le "stringhe"

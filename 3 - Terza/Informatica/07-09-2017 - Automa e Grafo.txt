@@ -1,0 +1,34 @@
+ISTRUIRE IL COMPUTER
+Spesso utilizziamo AUTOMI (sistema che passa da uno stato all'altro)
+AUTOMI -> Macchine automatiche con stati finiti.
+
+Sono costituite da 3 COMPONENTI:
+- Insieme degli stati
+- Insieme degli INPUT (ingressi)
+- Insieme degli OUTPUT (uscite)
+
+Lo rappresentiamo con un GRAFO o una TABELLA
+Il grafo è un insieme di nodi e archi al fine di rappresentare un automa.
+
+Immaginiamo un automa, il distributore di benzina.
+
+S={Ib,Sp,E} 	Inserire banconote, Selezionare pompa, Erogazione
+I={B,P}		 	Banconote, Pulsante
+O={S} 			Segnalatore
+
+(grafo semplificato)
+->{B}--Ib->{Sp}--P->{E}--
+
+(esempio ascensore)
+
+Definire in modo formale i seguenti utomi descrivendone il funzionamento con un grafo.
+1) Un distriutore automatico di biglietti al castello d'ingresso dell'autostrada è normalmente predisposto per l'emissione con il semaforo rosso acceso.
+Quando viene premuto il pulsante, la macchina rilascia un biglietto e, una volta ritirato quest'ultimo, il semaforo verde si accende.
+Dopo il transito del veicolo viene acceso quello rosso e la macchina è pronta per rierogare.
+
+2) Lo sportello bancomat per la consegna del denaro è una macchina automatica che legge la tessera magnetica inserita dall'utente,
+accetta la cifra richiesta attraverso la tastiera ed emette le banconote.
+
+(esecuzione dei problemi)
+
+
