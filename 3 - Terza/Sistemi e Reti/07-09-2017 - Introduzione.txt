@@ -1,0 +1,21 @@
+SISTEMA DI ELABORAZIONE (Computer)
+- Ad obiettivo generale (GENERAL PURPOSE) -> Quelli in commercio
+- Ad obiettivo mirato (SPECIAL PURPOSE) -> "ad hoc"
+
+Modello di von Neumann:
+Sored-Program Computer
+Elaboratore (sequenziale) di programmi memrizzati
+
+Il primo computer fu l'ENIAC, con aiuto dell'italiano Federico Faggin, su modello della Macchina di Turing
+
+Macchina di Turing:
+Macchina immaginaria con un nastro di lunghezza infinita con simboli, munita di testina di lettura e scrittura.
+
+CPU-Bus-RAM
+     |
+	I/O
+	
+Monoutente -> Un terminale
+Multiutente -> Più terminali
+Monotasking -> Un'unica elaborazione per volta
+Multitasking -> Più elaborazioni per volta

@@ -1,0 +1,18 @@
+LE FUNZIONi
+
+Definizione funzione:
+Dati 2 insiemi A e B è una funzione (f:A->B) se ad ogni elemento di A si associoa uno ed un solo elemento di B.
+Una relazione "f" fra due insieme A e B è una funzione se ad ogni elemnto di A associa uno e solo un elemento di B
+
+E' una funzione
+A={a,b,c} B={A,B,C}
+
+Non è una funzone:
+A={PARI,DISPARI} B={1,2,3}
+ma lo è:
+A={1,2,3} B={PARI,DISPARI}
+
+Funzioni reali di variabile reale
+f:R->R
+Dominio sono tutti gli elemnti di A, mentre il codominio è un sottoinsieme di b,
+formato dagli elemnti che sono immagine di almeno un elemento del dominio.

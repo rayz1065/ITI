@@ -30,5 +30,3 @@ Dopo il transito del veicolo viene acceso quello rosso e la macchina è pronta p
 accetta la cifra richiesta attraverso la tastiera ed emette le banconote.
 
 (esecuzione dei problemi)
-
-
