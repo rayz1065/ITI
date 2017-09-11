@@ -1,0 +1,35 @@
+Architetture dei sistemi di elaborazione
+
+RIPASSO SULLA LEZIONE PRECEDENTE:
+Conoscere architetture, Macchina di Turing, poi realizzato ENIAC basato su questa macchina
+Turing è famoso per i suoi ideali e la risoluzione di Enigma
+
+General purpose (riprogrammabile)
+Special purpose (specifico, dedicato)
+
+Multiutente, mutitasking e timesharing.
+
+Il transistor memorizza e potenzia stati elettrici.
+Il numero di transistor indica la scala di integrazione
+SSI -> <100 transistor
+MSI -> <1'000 transistor
+LSI -> <10'000 transistor
+VLSI -> <100'000 transistor
+ULSI -> >100'000 transistor
+
+Nel 1970 era il TOP di gamma MSI (da qui il nome anche della marca)
+Nel 2000 fino a 256M transistor.
+Attualmente riusciamo a raggiungere fino a 512'000'000 tranisistor.
+
+Olivietti è il primo elaboratore personale.
+Apple nel 1977 rilascia Apple 2.
+
+(Per approfondire vedi PDF: https://github.com/BisUmTo/ITI/tree/master/3%20-%20Terza/Sistemi%20e%20Reti/11-09-2017%20-%20PDF%20Riassuntivo.pdf )
+
+Gordon Moore enuncia una legge, ogni anno il numero transistor su un'unità di riferimento di integrabile sarebbe raddoppiato,
+ma presto corregge la sua legge con "ogni 2 anni".
+Attualmente, invece, la crescita si è rivelata esponenziale.
+
+
+MACCHINE VIRTUALI ED EMULATORI
+
