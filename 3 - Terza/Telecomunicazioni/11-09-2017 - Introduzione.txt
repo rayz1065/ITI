@@ -1,0 +1,13 @@
+Perché studiare telecomunicazione
+Cos'è telecomunicazione, innanzitutto?
+Comunicazione a distanza, condivisione dei dati e trasmissione.
+
+Se io trasmetto/condivido in una rete locale dei datim non può essere condiderato telecomunicazione.
+
+Questa materia studia sia in analogico che in digitale lo scambio dei dati.
+ 
+RETI ELETTRICHE IN REGIME CONTINUO, ci staremo circa 2-3 mesi.
+Principalmente mi interessano le esercitazioni e gli esercizio.
+I primi componenti che dovremmo studiare saranno i conduttori.
+Forse in fisica avete differenziato i conduttori dagli isolanti.
+A differenza dell'elettronica ci dedicheremo

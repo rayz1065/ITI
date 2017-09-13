@@ -24,7 +24,7 @@ Attualmente riusciamo a raggiungere fino a 512'000'000 tranisistor.
 Olivietti è il primo elaboratore personale.
 Apple nel 1977 rilascia Apple 2.
 
-(Per approfondire vedi PDF: https://github.com/BisUmTo/ITI/tree/master/3%20-%20Terza/Sistemi%20e%20Reti/11-09-2017%20-%20PDF%20Riassuntivo.pdf )
+(Per approfondire vedi PDF: https://github.com/BisUmTo/ITI/tree/master/3%20-%20Terza/Sistemi%20e%20Reti/Presentazione.pdf )
 
 Gordon Moore enuncia una legge, ogni anno il numero transistor su un'unità di riferimento di integrabile sarebbe raddoppiato,
 ma presto corregge la sua legge con "ogni 2 anni".
@@ -32,4 +32,38 @@ Attualmente, invece, la crescita si è rivelata esponenziale.
 
 
 MACCHINE VIRTUALI ED EMULATORI
+Permettono di emulare/simulare un sistema operativo all'interno di un altro.
 
+PORTE LOGICHE
+
+Tabelle di verità
+-AND  ==D--
+00 0
+01 0
+10 0
+11 0
+
+-OR  ==)>--
+00 0
+01 1
+10 1
+11 1
+
+-NOT  --|>o--
+0 1
+1 0
+
+SOFTWARE E HARDWARE
+
+Software si divide in
+- Applicazioni
+- Reti di comunicazioni
+- Sistema operativo
+
+- FirmWare (drivers)
+Hardware
+- ...
+
+L'obiettivo è produrre circuiti sempre più veloci ed efficienti.
+
+https://logic.ly/demo

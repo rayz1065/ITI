@@ -10,3 +10,9 @@ AnnoAttuale			Costante (di valore 2017)	Anno attuale		Numerico
 Eta					Variabile					Età persone			Numerico
 
 (esercizi pagina 69)
+
+
+VERIFICHE:
+21 settembre
+26 ottobre 
+07 dicembre

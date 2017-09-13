@@ -1,0 +1,26 @@
+Da variabili ad algoritmi.
+
+Dato un numero, calcolarne il doppio.
+
+VARIABILI:
+2 -> costante
+numero fornito -> variabile di input
+doppio -> variabile di output
+
+DIAGRAMMA DI FLUSSO:
+(INIZIO)
+/numero/
+[doppio=costante*numero]
+/doppio/
+(FINE)
+
+ALGORITMO Doppio
+	VARIABILI
+		dichiara numero, doppio come variabili numeriche reali
+		dichiara costante numerica reale di valore 2
+	INIZIO
+		immetti numero
+		assegna doppio=costante*numero
+		stampa doppio
+	FINE
+
