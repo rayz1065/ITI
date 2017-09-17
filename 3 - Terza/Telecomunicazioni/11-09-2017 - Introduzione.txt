@@ -10,4 +10,35 @@ RETI ELETTRICHE IN REGIME CONTINUO, ci staremo circa 2-3 mesi.
 Principalmente mi interessano le esercitazioni e gli esercizio.
 I primi componenti che dovremmo studiare saranno i conduttori.
 Forse in fisica avete differenziato i conduttori dagli isolanti.
-A differenza dell'elettronica ci dedicheremo
+A differenza dell'elettronica ci dedicheremo solo ai conduttori.
+In particolore, un ottimo conduttore, è il rame, oro e alcune leghe.
+Non proveremo a misurare la resistenza elettrica come si farebbe in fisica, ma noi lavoreremo coni 
+COMPOENTI ELETTRICI
+
+Partiremo dal resistore, anche conosciamo anche come "resistenza".
+Questi sono concetti di elettrotecnica.
+Un generico componente elettrico passivo avente 2 morsetti e di cui ci interessa solo come comportamento esterno,
+biene nominato BIPOLO PASSIVO
+[schema: http://www.edutecnica.it/sistemi/analogie/4.png]
+I bipoli passivi non producono corrente elettrica e sono chiamati anche carico.
+
+Una generica rete elettrica (circuito elettrico) è definibile come  insieme di un certo numero di bipoli
+collegati fra loro.
+
+CIRCUITO ELETTRICO = Bipoli passivi + Bipoli attivi
+
+Una rete elettrica è in regime continuo (stazionario) quando il valore delle grandezze in gioco non variano
+in modo apprezzabile per un periodo di tempo sufficiente lungo rispetto al tempo di osservazione.
+
+Lo studio lo faremo in futuro. Studiare un circuito in continuo è più semplice di uno con grandezze variabili.
+
+GRANDEZZE= corrente e tensione
+
+CORRENTE:
+Quantità di carica che transitano nell'unità di tempo
+
+TENSIONE:
+Differenza di potenzioale fra 2 punti di un circuito
+
+I=ΔQ/Δt [A]
+

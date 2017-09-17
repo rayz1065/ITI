@@ -24,3 +24,79 @@ ALGORITMO Doppio
 		stampa doppio
 	FINE
 
+Qui entriamo nel vivo degli algoritmi:
+Quando abbiamo un problema, il processo richede delle fasi:
+-Analisi del problema
+durante quest'ultima bisogna individuare i dati I/O e le azioni
+-Identificare le risorse a propria disposizione
+sia da un punto di vista logioco che Hardware e software
+-Stesura algoritmo
+scomponendo le operazioni da svolgere in espressioni/istruzioni elementai
+
+Algoritmo deriva da Al-Khuwarizmi e significa sequenza di azioni
+
+Qualcuno deve seguire il nostro algoritmo, non sempre è un PC, 
+ma può essere seguito da altri con un linguaggio appropriato.
+
+OPERATORI
+aritmetici: + - * / ^ %
+di relazione: = < > <= >= <>
+logici: AND, OR, NOT, XOR
+con le relative tabelle di verità: 
+(vedi https://github.com/BisUmTo/ITI/tree/master/3%20-%20Terza/Sistemi%20e%20Reti/11-09-2017%20-%20Transistor,%20Elaboratori%20e%20Porte%20logiche.txt)
+
+Dati 4 numeri interi si vuole calcolare la loro media
+ALGORITMO media
+	VARIABILI
+		dichiara N1, N2, N3, N4, SOMMA come numeri interi
+		dichiara numero_numeri come numero intero costante di valore 4
+		dichiara MEDIA come numero reale
+	INIZIO
+		immetti N1, N2, N3, N4
+		assegna SOMMA=N1+N2+N3+N4
+		assegna MEDIA=SOMMA/numero_numeri
+		stampa MEDIA
+	FINE
+
+(relativa tabella dati)
+
+Diagramma a blocchi
+() inizio-fine
+[] assegna
+<> operazioni logiche-selezione
+// i/o
+
+Dati 4 numeri si vuole calcolare il minimo.
+ALGORITMO media
+	VARIABILI
+		dichiara N1, N2, N3, N4, MIN come numeri interi
+	INIZIO
+		immetti N1, N2, N3, N4
+		assegna MIN=N1
+		se N2<MIN
+			allora
+				assegna MIN=N2
+		se N3<MIN
+			allora
+				assegna MIN=N3
+		se N4<MIN
+			allora
+				assegna MIN=N4
+		stampa MIN
+	FINE
+	
+Un algoritm deve essere formato da un numero finito di azioni, completo ed esaustivo, 
+inoltre deve essere riproducibile.
+
+Le istruzioni di un algoritmo devono essere realizzabili, precise e non ambigue,
+devono avere una durata limitata nel tempo, il risultato di un'istruzione deve essere osservabile,
+ogni istruzione deve essere deterministica e le istruzioni devono eesere elementari.
+
+L'algoritmo è la descrizione di una soluzione di un problema, per farlo risolvere ad un Computer
+si scrive un programma con un linguaggio di programmazione che possono essere:
+
+COMPILATI
+tradotti in qualcosa eseguibile dalla macchina (.exe)
+INTERPRETABILI
+un software le trasforma paripasso (.jar)
+

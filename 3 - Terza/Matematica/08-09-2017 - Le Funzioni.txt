@@ -16,3 +16,32 @@ Funzioni reali di variabile reale
 f:R->R
 Dominio sono tutti gli elemnti di A, mentre il codominio è un sottoinsieme di b,
 formato dagli elemnti che sono immagine di almeno un elemento del dominio.
+
+Forma implicita
+f(x;y)=0
+Forma esplicita
+y=f(x)
+
+Funzioni -> Algebriche & Trascendenti -> Razionali & Irrazionali -> Intere & Fratte
+Trasendenti = con logaritmi/esponenziali
+Irrazionali = con x sotto radice
+Fratte = con x al denominatore
+
+Il dominio naturale (C.E.) è il più ampio insieme di valori reali che si possono assegnare alla variabile
+indipendente affinché esista il corrispondente valore reale Y
+
+x^n -> potenza
+n^x -> esponenziale
+
+Dominio (naturale) di una funzione algebrica:
+1. Funzioni razionali intere
+D={x€R}
+2. Funzioni razionali fratte
+D={x€R|x<>valori che annullano il denominatore}
+3. Funzioni irrazionali
+Se indice dispari D={x€R}
+Se indice pari D={x>=valori che annullano il radicando}
+
+Esempio:
+y=(9-x^2)/(x^2-25) 
+D={x€R|x<>+-5}
