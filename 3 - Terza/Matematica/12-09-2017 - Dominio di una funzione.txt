@@ -1,0 +1,12 @@
+Ok, ricapitolando la classificazione delle funzioni
+razionale intera -> sqrt(3)*x -> x€R
+razionale fratta -> (3*x^2+5)/x -> x€R^denominatore<>0
+irrazionale intera ad indice pari -> sqrt(x+2) -> x€r^radicando>=0
+irrazionale intera ad indice dispari -> 3sqrt(x+3) -> x€R
+
+(Esercizio y=sqrt(x^2-7*x) -> D={x€R|x<=0vx>=7})
+(Esercizio y=sqrt(5*x)/(1-x^2) -> D={x€|x<-1v0<=x<1})
+(Esercizio y=sqrt(x+7)/(3-x)+3sqrt(x^2-9) -> D={x€R|-7<x^x<>3})
+
+Una immagine è un elemento di B rispetto ad uno di A
+Una controimmagine è un elemento di A rispetto ad uno di B

@@ -1,0 +1,37 @@
+Ricapitolando:
+Le schede stampate sono fatte di silicio, il quale è un semiconduttore.
+Von Neuman aveva modellato il primo computer
+
+[CPU] - bus - [MEMORIA DATI + ISTRUZIONI]
+        |
+		[I/O]
+
+Anche Harvald fece un suo modello di elaboratore, il quale viene tuttora utilizzato come
+DSP (digital sound processor -> processori dei suoni digitali)
+
+[CPU] - bus - [MEMORIA DATI]
+|
+bus - [MEMORIA ISTRUZIONI]
+|
+[I/O]
+
+Noi abbiamo 3 tipi di bus (tante piccole "autostrade" dove ci passano 0 e 1) ad 8 bit (solitamente)
+I bus possono essere uni o bidirezionali
+Per dare il tempo, si usa il clock (come il metronomo in musica)
+
+(|-|_) -> generatore di clock
+Per misurare la "velocità", o meglio dire la frequenza di questo clock si usano gli Hertz [hz]
+e relativi multipli e sottomultipli.
+1hz -> 1 oscillazione al secondo.
+Purtroppo stiamo per raggiungere il limite fisico di massima frequenza.
+
+Fra PS4 e XBOX, per esempio, non è detto che un gioco per un'architettura lavori allo stesso modo
+dell'altra, per fare un confronto "onesto" si controlla se hanno lo stesso set di istruzioni
+MIPS -> milioni di istruzioni per secondo, ma per essere valido devono avere lo stesso
+ISA -> set di istruzioni
+Magaflops -> altro dato utile per un confronto che misura i numeri in virgola mobile.
+
+Ci sono 3 tipi di bus, tornando al discorso di partenza,
+BUS DATI (Dbus) -> bidirizionale -> invio informazioni
+BUS CONTROLLO (Cbus) -> bidirezionale -> gestione CPU -> gestisce l'interno dell'ALU
+BUS INDIRIZZI (Abus) -> unidirezionale -> I/O dalla CPU

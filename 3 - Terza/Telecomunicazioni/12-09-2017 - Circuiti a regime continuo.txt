@@ -1,0 +1,40 @@
+Curcuiti elttrici a regime stazionario
+
+La tenzione elettrica presente tra 2 punti di un circuito può essere definita come
+la differenza di potenziale eltettrico che esiste tra quei 2 punti
+
+I->Intensità di corrente [A]
+V->Tensione, differenza di potenziale [V]
+
+L'elettronica nasce con il diodo/transistor (materiali semiconduttori) nel 1904
+Questa si occupa della parte del digitale e, come visto in sistemi e reti, le porte logiche.
+
+L'elettrotecnica si occupa di resistori, condensatori e induttori,
+Si occupa dello studio dei circuiti elettrici analogici, noi la vedremo in parte anche in telecomunicazioni.
+
+Bipoli
+-Passivi (resistore, condensatore, induttore)
+-Attivi (generatore di corrente, tensione)
+
+Un generatore può essere reale o ideale:
+Un generatore di tensione rele presenta una propria resistenza interna, mentre quello ideale E=V
+eroga sempre la stessa tensione indipendentemente dal carico.
+Un generatore di corrente reale esplicita la propria resistenza dovuta alle perdite interne, mentre
+quello ideale erogano sempre la stessa intensità di corrente indipendentemente dal carico
+
+TENSIONE
+o-(|)-o
+ + E -
+ 
+CORRENTE
+o-<(-)-o
+    I
+Circuito -> insieme stazionario di bipoli attivi e passivi.
+
+LEGGE DI OHM
+Data una resistenza (resistore) R, se questa si trova all'interno di un circuito chiuso, all'interno del
+resistore c'è un decadimento di intensità
+V=RI [V=OHM*A]
+
+(esercizi per casa)
+
