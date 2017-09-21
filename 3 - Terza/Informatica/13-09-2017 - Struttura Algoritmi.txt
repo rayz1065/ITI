@@ -1,0 +1,63 @@
+Strutture di controllo
+
+Un algoritmo ben strutturato possiede solo 3 tipi di strutture di strutture di controllo:
+- sequenza (insieme di istruzioni scritte di seguito -> <azione 1> [<azione 2> ...]
+- selezione (verifica,condizione) -> se <condizione>, allora <azione 1> [altrimenti <azione 2>]
+- iterazione (ripetizione, ciclo) -> esegui <azione 1> [<azione 2> ...] ripeti mentre|finché <condizione>
+
+SEQUENZA:
+|
+[azione 1]
+|
+[azione 2]
+|
+[azione 3]
+|
+
+SELEZIONE:
+|
+<condizione> - F - [azione 2]
+|	 				|
+V
+|
+[azione 1]
+|
+
+ITERAZIONE:
+->	|
+| 	[azione 1]
+| 	|
+|-V-<condizione>
+	|
+	F
+	|
+	[azione 2]
+
+
+Istruzioni da salto, a differenza delle funzioni e procedure, (https://github.com/BisUmTo/ITI/blob/master/3%20-%20Terza/Informatica/18-09-2017%20-%20Funzioni%20e%20Procedure.txt)
+non fa parte di queste 3 strutture principali e sarebbero da evitare.
+L'utillizzo di questo genere di istruzioni provoca la creazione di "programmi spaghetti"
+poco modulari che, dagli anni '80, non vengono più utilizzata.
+
+ESERCIZIO:
+Su una quantità di denaro si vuole applicare un'imposta progressiva secondo questa tabella:
+0-5000 -> 10%
+5001-15000 -> 20%
+>15001 -> 30%
+
+Algoritmo Imposta
+VARIABILI E COSTANTI
+	Dichiara DEN, IMP come numeri reali
+	Dichiara {I1, I2, I3} come numeri reali costanti di valore {0.1, 0.2, 0.3}
+INIZIO
+	Immetti DEN
+	Se DEN>15000
+		Allora
+			Assegna IMP=DEN*I3
+		Altrimenti
+			Assegna IMP=DEN*I2
+	Se DEN<=5000
+		Allora
+			Assegna IMP=DEN*I1
+	Stampa IMP
+FINE
