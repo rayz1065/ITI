@@ -1,8 +1,0 @@
-(correzione compiti e interrogazione)
-Funzione: Una relazione f fra 2 insiemi A e B è una funzione se ad ogni elemento di A associa 1 e 1 solo elemento di B
-
-y è immagine di x
-
-Noi analizziamo le funzioni numeriche di insieme R->R
-
-(ripasso sul dominio)

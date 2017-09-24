@@ -1,3 +1,8 @@
 Un informatico è quello che crea, non quello che utilizza
 In prima partite in 100, ma ci saranno mai 100 programmatori che usciranno da questa scuola fra 5 anni?
 
+00011011=27
+11111111=255
+10000001=129
+10100000=160
+00101010=42

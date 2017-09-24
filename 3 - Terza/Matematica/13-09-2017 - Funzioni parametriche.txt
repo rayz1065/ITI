@@ -1,0 +1,15 @@
+IMMAGINE = Sostituire il valore della X nella funzione
+CONTROIMMAGINE = Sostituire il valore della Y nella funzione
+
+PARAMETRICHE:
+f(x)=2ax+3b
+
+f(0)=-6
+f(1)=-2
+
+x=-3b/2a
+
+f(0)=-6 -> -6=2a0*3b -> 0a+3b+6=0 -> b=-2
+f(1)=-2 -> -2=2a1*3b -> 2a+3(-3)2 -> a=2
+
+(interrogazione ed esercizi alla lavagna)

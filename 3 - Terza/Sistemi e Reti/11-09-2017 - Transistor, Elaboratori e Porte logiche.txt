@@ -21,7 +21,7 @@ Nel 1970 era il TOP di gamma MSI (da qui il nome anche della marca)
 Nel 2000 fino a 256M transistor.
 Attualmente riusciamo a raggiungere fino a 512'000'000 tranisistor.
 
-Olivietti è il primo elaboratore personale.
+Olivetti è il primo elaboratore personale.
 Apple nel 1977 rilascia Apple 2.
 
 (Per approfondire vedi PDF: https://github.com/BisUmTo/ITI/tree/master/3%20-%20Terza/Sistemi%20e%20Reti/Presentazione.pdf )
