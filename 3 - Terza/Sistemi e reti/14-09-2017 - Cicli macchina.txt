@@ -1,0 +1,22 @@
+1kB =/<> 1024B -> 1kiB=1024B
+
+CPU -> microprocessore -> unità centrale dei processi
+sovraintende a tutte le operazioni del sistema di elaborazione. Gestisce e genera i segnali necessari al corretto funzionamento. Esegue i calcoli.
+
+CU -> unità di controllo
+
+ALU -> unità logico-aritmetica
+
+Registri
+
+CICLI MACCHINA:
+Reset
+Fase di BOOT (BOOTSTRAP)
+-Fetch dell'istruzione (prelievo)
+-Decode dell'istruzione (decodifica)
+-Fetch degli operatori
+-Execute dell'istruzione (esecuzione)
+
+Il ciclo comprende quelli con -
+
+

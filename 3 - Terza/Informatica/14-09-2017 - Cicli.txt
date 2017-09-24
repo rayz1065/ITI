@@ -1,0 +1,25 @@
+Ripeti finché -> fino a quando la condizione è falsa, quando è vera avanza
+Ripeti mentre -> fino a quando la condizione è vera, quando è falsa avanza
+
+Ciclo precodizionale -> la condizione viene posta all'inizio del ciclo
+	|
+----|
+|	<condizione>-F-[azione2]
+|	|
+|	V
+|	|
+|	[azione1]
+|---|
+Questo permette, in caso di non eseguire l'azione1 nel caso che il criterio non sia soddisfatto.
+
+Ciclo postcondizionale -> la condizione viene posta alla fine del ciclo
+	|
+|---|
+|	[azione1]
+|	|
+|	<condizione>-F-[azione2]
+|	|
+----V
+Questo permette, in caso di eseguire l'azione1 anche in caso che il criterio non sia soddisfatto.
+
+(esercizi sui cicli)

@@ -1,0 +1,14 @@
+V=RI -> Legge di Ohm
+
+Se percorso da corrente eletrica, la differenza di tenzione ai 2 poli è legata alle altre variabili dalla legge di Ohm
+
+R=100[Ω]
+I=10[mA]=10*10^-3[A]
+V=100*10*10^-3=1[V]
+
+Quanto è in grado un materiale di condurre elettricità?
+Esiste una legge R=ρ*l/S[Ω] 
+S-> Spessore
+
+Potenza -> Potenza dissipata sul carico passivo
+P=R*I^2 =V^2/R=VI
