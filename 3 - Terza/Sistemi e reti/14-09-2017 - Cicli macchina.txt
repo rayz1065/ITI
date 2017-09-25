@@ -18,5 +18,3 @@ Fase di BOOT (BOOTSTRAP)
 -Execute dell'istruzione (esecuzione)
 
 Il ciclo comprende quelli con -
-
-

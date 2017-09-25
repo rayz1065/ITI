@@ -12,3 +12,5 @@ S-> Spessore
 
 Potenza -> Potenza dissipata sul carico passivo
 P=R*I^2 =V^2/R=VI
+
+(esercizi)

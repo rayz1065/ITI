@@ -1,0 +1,57 @@
+(proseguo traduzione verbi)
+apofonia -> movimento della vocale radicale
+Wurzelvocal -> vocale radicale
+alcuni cambiano la propia vocale nella seconda e terza persona singolare seguendo la tabella:
+e->i
+a->ä
+e->ie
+a->äu
+o->ö (pochissimi verbi, stoßen)
+questa potrebbe essere considerata una regola nell'irregolarità.
+
+Anticamente, nel germanico comune, c'erano 7 classi di verbi con un mutamento alla vocale,
+alcuni di questi sono ancora restati oggi.
+i e u non mutano mai.
+
+Anche in italiano ci sono dei cambi simili: 
+fare->feci
+dare->diedi
+
+Ci sono alcune parole che hanno la tripla lettera, fra questi appaiono principalmente parole composte:
+Schiff+Fahrt=Schifffahrt
+Imbiss+Schule=Imbissschule
+...
+
+PERFEKT:
+Il perfekt è formato da un verbo ausiliare (essere o avere) con il secondo participio (participio passato).
+Ich habe ge|mach|t
+
+Con i verbi che finiscono per -ieren NON aggiungo ge- e se la radice finisce con t si aggiunge una e tonica.
+arbeit|e|t
+
+Con i verbi inseparbili (mis- er- ent- emp- be- ge- ...) NON aggiungo ge-
+
+Con i verbi separabili (an- ver- ein- aus- zu- mit- auf- ab- um- ...) il -ge- lo pongo fra radice e la particella separabile.
+mit|ge|brach|t
+
+Con i verbi irregolari, molto spesso non aggiungo -t
+an|ge|fangen
+
+ESSERE O AVERE dipendono a seconda del verbo:
+SEIN:
+ Sein
+ Bleiben
+ Alle Bewegungverben (movimento)
+ Passoeren/geshehen
+ Begegnen
+ Werden
+ Alle Zustandsänderungsverben (cambio di stato)
+HABEN:
+ Tutti gli altri.
+
+STRUTTURA DELLA FRASE:
+La frase tedesca è molto strutturata, il verbo principale nella frase primaria va sempre al SECONDO posto,
+un'eventuale particella separabile o altri casi che vedremo in seguito, invece, vanno all'ultimo.
+Ich bin gestern zu Hause geblieben.
+
+Il gerundio in tedesco non esiste, si usa "gerade" o altre frasi secondarie causali o concessve.

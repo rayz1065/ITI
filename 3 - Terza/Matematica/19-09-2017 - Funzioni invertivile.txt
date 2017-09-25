@@ -1,0 +1,6 @@
+Una funzione è invertibile se è biunivoca. In qualche caso richiede una restrizione del dominio.
+Il risultato grafico è una figura simmetrica alla retta y=x rispetto a quella di partenza.
+
+Data una funzione biunivoca f(x) è definita funzione inversa quella definita f^-1(y)=x
+(esercizi)
+
