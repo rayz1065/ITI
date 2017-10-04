@@ -19,7 +19,7 @@ Partiremo dal resistore, anche conosciamo anche come "resistenza".
 Questi sono concetti di elettrotecnica.
 Un generico componente elettrico passivo avente 2 morsetti e di cui ci interessa solo come comportamento esterno,
 biene nominato BIPOLO PASSIVO
-[schema: http://www.edutecnica.it/sistemi/analogie/4.png]
+[schema: http://www.edutecnica.it/sistemi/analogie/4.png ]
 I bipoli passivi non producono corrente elettrica e sono chiamati anche carico.
 
 Una generica rete elettrica (circuito elettrico) è definibile come  insieme di un certo numero di bipoli

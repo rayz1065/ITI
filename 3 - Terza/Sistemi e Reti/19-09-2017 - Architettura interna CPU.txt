@@ -1,0 +1,4 @@
+Architettura estena alla CPU l'abbiamo vista nuemerose volte, oggi ci dedicheremo alla struttura interna.
+[Schema: http://www.webalice.it/mazzantis95/Slide_04_Hardware/cpu.jpg ]
+
+BUS dati -> a 32/64 bit 

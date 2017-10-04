@@ -1,0 +1,17 @@
+Procedure e funzioni.
+Entrambe ci permettono di eseguire delle azioni.
+Una funzione deve restituire uno più valori, se non lo fa viene chiamata procedura.
+
+Il parametri per una procedura si possono fornire via valore o via riferimento.
+
+Le funzioni e le procedure sono molto utili per la risoluzione di un problema con un algoritmo.
+
+(esercizio)
+Noti a,b,c risolvere l'equasione, sia di prima che di secondo grado.
+
+Dato un elenco di produtti con i rispettivi prezzi, conta quanti sono quelli con prezzo>100€
+
+Scrivere una funzione che restituisca l'età di una persona conoscendo l'anno di nascita.
+
+Dati Descrizione, Tipo, Prezzo in euro, 
+scrivere la descrizione e il prezzo degli oggetti appartenenti al tipo inserito all'inizio.
