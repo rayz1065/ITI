@@ -1,0 +1,16 @@
+Macchina di Turing
+General & Special purpose
+Moor - Capacità di integrazione
+Tipi di computer
+Hardware - Software
+Sistemi di elaborazione
+Architettura di Von Neuman
+Architettura di Harvald
+Generatore di segnali (Clock)
+Prestazione e confronto
+Elaboratori a memora programmata
+Cicli di elaborazione
+Fasi di ciclo della CPU
+Struttura della CPU
+Registri della CPU
+CISC - RISC

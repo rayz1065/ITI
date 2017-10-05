@@ -1,0 +1,11 @@
+Le architetture si dividono in
+
+CISC -> Ad istruzioni Complesse
+Riducono notevolmente i tempi per l'esecuzione di azioni più complesse.
+
+RISC -> Ad istruzioni Ridotte
+Molto più economiche da realizzare, ma lente nell'esecuzioni di funzioni complesse.
+
+CPU+Registri->DataPath
+
+(visione scheda)

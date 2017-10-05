@@ -1,0 +1,8 @@
+Funzioni monotòne -> funzione crescente in senso stretto
+Funzioni pari -> f(x)=f(-x)
+Funzioni dispari -> -f(x)=f(-x)
+Funzioni periodiche -> f(x)=x+kT k->ripetizioni T->periodo
+Funzioni razionali fratte -> x è posta al denominatore, denominatore<>0
+Funzioni irrazionali intere -> x posta al radicando, radicando>=0 se indice pari
+Funzioni inverse -> f(x)=f-1(x)
+Funzioni a tratti -> funzioni con diverse espressioni per diversi valori di x
