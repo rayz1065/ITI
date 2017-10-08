@@ -1,0 +1,29 @@
+RESISTORI IN SERIE:
+Se la batteria ha un + e un -, la corrente ba da + a -.
+I, l'intensità di corrente, è costante.
+Req=R1+R2...
+
+Tutti gli errori (difetti di Joule) non si considerano.
+
+LETTURA RESISTORI:
+Quelle che analizzeremo noi sono resistenze in paste di carbone della serie E12 ad 1/4W
+1/4W per gli elettronici è poco, mentre per gli elettrotecnici è tanto.
+L'ultimo anello indica la tolleranza, il penultimo il coefficente di moltiplicazione, gli altri le cifre significative.
+
+Tolleranze:
+ORO - 5%
+ARGENTO - 10%
+VUOTO - 20%
+
+Valori (per coefficente 10^n):
+Marrone
+Rosso
+Arancio
+Giallo
+Verde
+Azzurro
+Viola
+Grigio
+Bianco
+
+Rosso|Nero|Viola|Argento -> 200MΩ±10%

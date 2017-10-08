@@ -1,0 +1,55 @@
+Der Igel ist ärenlich, weil der Hase beledigt hat.
+Der...ärerlich -> Hauptsatz
+weil...hat -> Nebensatz
+ist -> verbo coniugato della frase principale, secondo posto
+hat -> verbo coniugato della frase secondaria, ultimo posto
+
+L'italiano e il tedesco sono allofoni, ovvere che alcuni suoni non variano il significato.
+Un esempio è "perché" e "perchè", comunque capiamo il significato.
+
+Der Igel hat gewonnen, weil der Igel der Hilfte von seiner Frau den Hase betrügt.
+
+wetten -> scommettere
+sterben -> morire
+sich ergen -> arrabbiarsi
+Schnaps -> grappa
+schumnelen -> imbrogliare
+betrügen -> truffare
+begegben -> incontrare per caso
+verlugt -> impayyito
+
+Der Hase beleidigte den Igel.
+
+reißen -> strappare
+reisen -> viaggiare
+verkleiden -> traversirsi
+Samt -> seta
+Jeger -> cacciatore
+
+1749 -> siebzehn hundert neinundvierzig
+
+Als er nach Frankfurt zurükkam, fand er seine Stelle als Jurist.
+
+Nei verbi modali al präteritum, non si mette l'umlaut.
+
+
+I CASI DEL TEDESCO
+
+Nominativo	der-das-die-die
+Accusativo	den-das-die-die
+Dativo		dem-der-dem-den(+n)
+Genitivo	des(+s)-der-des(+s)-der
+
+Nominativo risponde alla domanda "Wer?" "Was?" come soggetto
+Accusativo risponde alla domanda "Wen?" "Was?" come complemento oggetto
+Dativo risponde alla domanda "Wem?" (a chi) come complemento di termine
+Genitivo risponde alla domanda "Wessen?" (di chi) come complemento di specificazione
+
+Der Hund frisst das Fleish
+N v A
+
+Das Fahrrad des Lehrers ist schwarz
+N G v
+
+Der Vater gibt dem Kind einen Apfel
+N v D A

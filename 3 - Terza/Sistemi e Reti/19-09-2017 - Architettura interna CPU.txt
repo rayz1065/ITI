@@ -2,3 +2,10 @@ Architettura estena alla CPU l'abbiamo vista nuemerose volte, oggi ci dedicherem
 [Schema: http://www.webalice.it/mazzantis95/Slide_04_Hardware/cpu.jpg ]
 
 BUS dati -> a 32/64 bit 
+
+Registri di supporto inaccessibili:
+MAR (Memory address register)
+MDR (Memory data register)
+
+PC (Program Counter)
+Indirizzo dell'istruzione da eseguire.

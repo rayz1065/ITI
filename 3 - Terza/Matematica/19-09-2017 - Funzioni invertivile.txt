@@ -3,4 +3,3 @@ Il risultato grafico è una figura simmetrica alla retta y=x rispetto a quella d
 
 Data una funzione biunivoca f(x) è definita funzione inversa quella definita f^-1(y)=x
 (esercizi)
-

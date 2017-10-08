@@ -1,0 +1,4 @@
+FUNZIONE A TRATTI - modulo
+y=|9x-5|
+y={9x-5 per x>=5/9; -9x+5 per x<5/9}
+(rappresentazione grafica)

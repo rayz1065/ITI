@@ -1,1 +1,20 @@
 (interrogazioni)
+
+ALGORITMO conversuone
+VARIABILI
+	dichiara i, n, u, r come numeri interi
+COSTANTI
+	dichiara c come costante di valore 10
+	dichiara b come costante di valore 2
+INIZIO
+	assegna i=0
+	immetti n
+	esegui mentre n>0&&b<c
+		assegna r=n%b
+		assegna n/=b
+		assegna r*=c^immetti
+		assegna u+=r
+		assegna  i++
+	ripeti
+	stampa u
+FINE
