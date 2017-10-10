@@ -1,0 +1,6 @@
+(esercizi)
+y=a^b
+y=(a+b)^c
+y=ab+bc+ca
+y=~(ab)+(c^d)
+y=~((ab)^(~cd))

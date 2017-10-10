@@ -1,0 +1,6 @@
+I sistemi logici binari si basano sulle porte logiche.
+Ogni sistema logico binario può essere rappresentato con una funzione logica
+NOT -> y=~A
+AND -> Y=AB
+OR -> Y=A+B
+XOR -> Y=A^B

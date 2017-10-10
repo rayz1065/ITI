@@ -1,0 +1,10 @@
+(ripasso generale)
+5/2=2
+5%2=1
+
+n%m è il resto della divisione.
+
+POW(num,esponente) -> num^esponente
+POW(3,2) -> 9
+
+(esercizi)

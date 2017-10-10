@@ -1,0 +1,27 @@
+(interrogazione ed esercizi alla lavagna)
+CALCOLARE IL DOMINIO DELLE SEGUENTI FUNZIONI
+y=1/(2x^3+x^2-8x-4)
+y=x^2/9
+y=sqrt(4x-2)/(4^4-10^2+9)
+y=sqrt(2x-1)/3x^2-1)
+
+FUNZIONI A TRATTI
+Si definisce una funzione a tratti (o funzione per casi) una funzione che ha diverse espessioni
+analitiche per diversi valori di x
+f(x)={-1 per z<0;x-1 per x>=0}
+
+MODULO, UNA FUNZIONE A TRATTI
+y=|f(x)|
+y=|x-2|
+y={x-2 per x>=2; -x+2 per x<2}
+
+PROPRIETA' DELLE FUNZIONI
+-Pari e dispari
+-Monnotone, Crescenti, Decrescenti
+-Periodiche
+
+Una funzione si dice PARI quando f(x)=f(-x)
+funzioni pari non sono MAI iniettice, hanno una simmetria (x=0)
+
+Una funzione si dice DISPARI quando f(-x)=-f(x)
+[prosegue 22-09-2017]

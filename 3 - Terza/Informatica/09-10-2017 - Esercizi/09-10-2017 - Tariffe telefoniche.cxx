@@ -27,9 +27,10 @@ int main()
 	else
 	{
 		C+=(float)Limite*PerSecondo;
-		s-=(float)Limite;
+		s-=Limite;
 		C+=(float)s*OltreLimite;
 	}
 	
 	cout<<"Il costo della chiamata sarà di €"<<C<<endl;
+	return 0;
 }

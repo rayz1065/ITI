@@ -27,3 +27,20 @@ Grigio
 Bianco
 
 Rosso|Nero|Viola|Argento -> 200MΩ±10%
+
+Consiglio:
+Controllate sempre l'ultima cifra per capire in che ordine stiamo lavorando.
+
+Valori standard E12
+10*10^n
+12*10^n
+15*10^n
+18*10^n
+22*10^n
+27*10^n
+33*10^n
+39*10^n
+47*10^n
+56*10^n
+68*10^n
+82*10^n

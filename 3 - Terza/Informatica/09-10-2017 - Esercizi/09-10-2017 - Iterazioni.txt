@@ -1,0 +1,19 @@
+POST CONDIZIONALE
+do
+{
+	azioni
+}
+while (condizione)
+
+PRE CONDIZIONALE
+while (condizione)
+{
+	azioni
+}
+
+
+ITERAZIONE CON CONTATORE
+for(int cont=valore_iniziale;condizione;azione_per_ciclo)
+{
+	azioni
+}

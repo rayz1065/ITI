@@ -1,0 +1,6 @@
+IR (Istruction Register) Registro delle istruzioni, codice operativo dell'istruzione
+
+PSW (Process Status Word) Registro delle bandiere/flag
+Ogni bit ha un significato: questo ci permette di sapere lo stato della CPU
+
+(scheda sul ciclo di esecuzione)
