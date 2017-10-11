@@ -11,4 +11,5 @@ int main()
 	b=(float)a/2;
 	
 	cout<<"La metà del numero inserito sarà "<<b<<endl;
+	return 0;
 }

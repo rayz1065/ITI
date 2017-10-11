@@ -1,0 +1,5 @@
+y=|3x-6|
+y={3x-6 per x>=2; -3x+6 per x<2}
+
+CALCOLO DOMINIO
+(esercizi)
