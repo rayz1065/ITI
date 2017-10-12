@@ -156,7 +156,7 @@ La società in questo periodo era di tipo feudale, ovvero era divisa in appezzam
 Questo "grande signore" affidava ai vassalli parte del proprio territorio al fine di aver maggior controllo.
 A loro volta i vassalli davano numerosi posti di lavoro nel proprio terreno a contadini.
 
-2 Compila la tabella relativa al sistema feudale.
+# 2 Compila la tabella relativa al sistema feudale.
 
 # Periodo nel quale si forma
 Fine dell'VIII secolo - Inizio IX secodlo
@@ -170,10 +170,10 @@ Feudo affidato al vassallo
 # Significato del termine feudo
 Appezzamento di terreno di proprietà del feudatario
 
-Contenuto del contratto tra signore e vassallo
-
-......................................................................................................................
-......................................................................................................................
+# Contenuto del contratto tra signore e vassallo
+Nella cerimonia dell'investitura il vassallo giurava fedeltà al signore, ricevendo in cambio protezione e un 
+feudo dove lavorare. Il vassallo era inoltre tenuto a versare contributi al signore e di avere un proprio
+esercito pronto a lottare al fianco del signore feudatario.
 
 © SEI - Società Editrice Internazionale p.A. - Torino
 
@@ -253,54 +253,56 @@ Inghilterra
 ..............................................................................
 
 VERIFICA LE TUE ABILITA' E CONOSCENZE
-6 Scrivi un testo – massimo una facciata di foglio protocollo – sulla lotta per le investiture utilizzando le
-seguenti domande-guida.
-Quando iniziò? Chi ne fu coinvolto? Quale fu la causa scatenante? Quali furono i fatti principali? Qual era il contenuto del Dictatus papae?
+6 Scrivi un testo – massimo una facciata di foglio protocollo – sulla lotta per le investiture 
+utilizzando le seguenti domande-guida.
+# Quando iniziò?
+# Chi ne fu coinvolto?
+# Quale fu la causa scatenante?
+# Quali furono i fatti principali?
+# Qual era il contenuto del Dictatus papae?
+
+La lotta per le investiture, che contrappose il Papato e l'Impero nei secoli XI e XII, ebbe come fulcro
+la discussione sulla scelta e ordinazione dei vescovi, chi dei 2 campi se ne doveva occupare?
+Il Papa o l'imperatore?
+La lotta tra papato e impero cominciò con Papa Niccolò II, eletto nel 1059: egli mediante il concilio 
+Lateranense condannò l'investitura laica dei vescovi ed escluse l'imperatore dalla partecipazione 
+attiva all'elezione del pontefice. Ma il personaggio più importante è forse papa Gregorio VII che,
+nell'ambito di un'azione più grande che va sotto il nome di Riforma gregoriana, emise nel 1075 il 
+Dictatus Papae. Con questo documento si dichiarava che il pontefice era la massima autorità
+spirituale e in quanto tale poteva deporre l'imperatore, mediante la scomunica; veniva così 
+espressa una vera e propria teocrazia. La lotta divenne aspra tra il Papa e l'imperatore di Germania 
+Enrico IV, che radunò i vescovi a lui fedeli i quali deposero il pontefice che a sua volta 
+scomunicò l'imperatore. 
+
 
 6
 
 © SEI - Società Editrice Internazionale p.A. - Torino
 
 1 Il Medioevo europeo
-7 Compila la tabella relativa allo scontro tra Gregorio VII ed Enrico IV.
+# 7 Compila la tabella relativa allo scontro tra Gregorio VII ed Enrico IV.
+Gregorio VII -> [G]
+Enrico IV -> [E]
 
-Gregorio VII
+# Quando iniziò lo scontro
+Nel 1075, dopo che Gregorio abbia ribadito il divieto assoluto dell'infestitura di un vescovo da parte
+di un laico, anche se imperatore.
 
-Enrico IV
+# Chi doveva eleggere il papa
+[G] Veniva eletto direttamente da Dio 
+[E] L'imperatore doveva eleggere il Papa
 
-Quando iniziò lo scontro
+# Chi doveva investire i vescovi
+[G] Il Papa doveva essere l'unico a poter investire i vescovi
+[E] L'imperatore doveva investire i vescovi
 
-..............................................................................
+# Chi doveva detenere il potere temporale
+[G] Il Papa riceve da Dio sia il potere temporale
+[E] Il potere temporale è riservato all'imperatore 
 
-..............................................................................
-
-Chi doveva eleggere
-il papa
-
-..............................................................................
-
-..............................................................................
-
-Chi doveva investire
-i vescovi
-
-..............................................................................
-
-..............................................................................
-
-Chi doveva detenere
-il potere temporale
-
-..............................................................................
-
-..............................................................................
-
-Chi doveva detenere
-il potere spirituale
-
-..............................................................................
-
-..............................................................................
+# Chi doveva detenere il potere spirituale
+[G] Il Papa riceve da Dio sia il potere spirituale
+[E] Il Papa riceve il permesso dall'imperatore per poterr detenere il potere spirituale
 
 Armi usate durante la lotta
 
@@ -348,55 +350,29 @@ c) Quali conseguenze ebbe l’incremento demografico dell’xi secolo?
 7
 
 Il Medioevo europeo - UNITÀ 1
-9 Completa la tabella relativa alle innovazioni agricole introdotte dal x al xiii secolo.
+# 9 Completa la tabella relativa alle innovazioni agricole introdotte dal x al xiii secolo.
 
-Aratro pesante (carruca)
+# Aratro pesante (carruca)
+	# Caratteristiche
+	Dotato di ruote,gioco frontale e di un versoio metallico
+	# Effetti
+	il quale permette il movimento dell'aratro più fluido e aratura della terra più in profondità.
+	
+# Rotazione triennale
+	# Caratteristiche
+	Alternzanza del campo fra 3 varie situazioni
+	# Effetti
+	Grazie a questo concetto viene utilizzato maggior terreno per i campi massimizzandone la fertilità.
+	
+	
+# Collare a spalla
+	# Caratteristiche
+	Il gioco non viene più posto al collo bensì con un ancoraggio sulle spalle.
+	# Effetti
+	Permette ora na potenza di traino maggiore, poiché i buoi non sono più ancorati al collo, quindi strozzati,
+	ma permettono di avere una forza di traino nettamente maggiore.
 
-Rotazione triennale
-
-Collare a spalla
-
-Caratteristiche
-
-Effetti
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-10 Costruisci graficamente il sistema della rotazione triennale indicando anche le colture utilizzate.
+# 10 Costruisci graficamente il sistema della rotazione triennale indicando anche le colture utilizzate.
 {Cereali invernali-Maggese-Grani primaverili}
 {Grani primaverili-Cereali invernali-Maggese}
 {Maggese-Grani primaverili-Cereali invernali}
@@ -408,113 +384,82 @@ Effetti
 1 Il Medioevo europeo
 11 Completa la tabella relativa alla prima crociata.
 
-Periodo in cui si svolse
-Chi vi partecipò
+# Periodo in cui si svolse
+27 settembre 1097
 
-Con quali motivazioni
+# Chi vi partecipò
+Urbano II e i mussulmani che residevano nelle zone della Palestina
 
-..................................................................................................................................................................
+# Con quali motivazioni
+Urbano II voleva liberare Gerusalemme e dimostrare la suprema autorità politico-militare del papa.
+I mussulmani, invece, volevano espandersi verso l'impero Bizzantino.
 
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-Che cosa accadde nella
-valle del Reno nel 1096
+Che cosa accadde nella valle del Reno nel 1096
 
 ..................................................................................................................................................................
 
-Come si comportarono
-gli eserciti crociati a
-Gerusalemme
+# Come si comportarono gli eserciti crociati a Gerusalemme
+I soldati di Urbano, senza scrupoli, trucidarono tutti coloro trovavano lungo la propria strada facendo zampillare
+sangue ovunque, violenza spietata.
 
-..................................................................................................................................................................
+# Come si concluse la crociata
+Urbano II, dopo una sanguinosa vittoria, espugna e conquista Gerusalemme.
 
-Come si concluse la
-crociata
-
-..................................................................................................................................................................
-
-..................................................................................................................................................................
-
-..................................................................................................................................................................
-..................................................................................................................................................................
-
-..................................................................................................................................................................
-
-12 Rispondi brevemente alla seguente domanda.
+# 12 Rispondi brevemente alla seguente domanda.
 Che cosa si intende con l’espressione rivoluzione commerciale del Medioevo?
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
+"Rivoluzione Commerciale" indica un rapido cambiamento nel commercio Europeo, in partiolare, ora in grado
+di incidere le abitudini e i caratteri della società.
 
-13 Completa lo schema relativo al sistema commerciale triangolare amalfitano.
-AMALFI
+# 13 Completa lo schema relativo al sistema commerciale triangolare amalfitano.
+AMALFI-BISANZIO-ISLAM
 
-14 Rispondi brevemente alle seguenti domande.
-a) Quando iniziò la decadenza di Amalfi, e quale ne fu la causa?
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
+# 14 Rispondi brevemente alle seguenti domande.
+# a) Quando iniziò la decadenza di Amalfi, e quale ne fu la causa?
+Nel 1073 iniziò per Amalfi un periodo di decadenza che, causa la conquista straniera, fece perdere tutta
+l'indipendenza della città e con essa anche il collasso del commercio.
 
-b) Quale potenza marinara prese il suo posto?
-......................................................................................................................................................................................................................................
+# b) Quale potenza marinara prese il suo posto?
+Dopo la decadenza di Amalfi, Venezia prese subito il suo posto.
 
-c) In che modo Venezia riuscì a non avere più rivali nel commercio con Bisanzio?
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
+# c) In che modo Venezia riuscì a non avere più rivali nel commercio con Bisanzio?
+Grazie allo schieramento di Venezia con l'imperatore nello scontro fra bizzantini e normanni, Venezia
+ricevette il persemsso di commerciare con Bisanzio senza alcuna tassazione.
 
 © SEI - Società Editrice Internazionale p.A. - Torino
 
 9
 
 Il Medioevo europeo - UNITÀ 1
-d) Che cosa permise ai mercanti italiani di conquistare importanti e strategici porti in Oriente?
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
+# d) Che cosa permise ai mercanti italiani di conquistare importanti e strategici porti in Oriente?
+Genova e Pisa furnono indispensabili per le crociate nella Palestina, inviando i propri supporti navali
+a sostegno della flotta dell'esercito crociato.
+Per tanto ottennero in cambio il diritto di possedere nei principali porti orientali delle proprie colonie.
 
-e) Quali territori si è soliti comprendere con l’espressione Levante?
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
+# e) Quali territori si è soliti comprendere con l’espressione Levante?
+Con Levante, vengono indicati i territori dell'impero Bizzantino, della Siria, Palestina ed Egitto.
 
-15 Descrivi le caratteristiche tecniche della galera.
-16 Rispondi brevemente alle seguenti domande.
-a) Che cos’era la colleganza o commenda?
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
+# 15 Descrivi le caratteristiche tecniche della galera.
+Inbarcazioni per il trasporto merci le quali sfruttavano sia la potenza del vento, che quella dei remi.
+Forma snella e allungata, con molteplici vele a seconda della direzione del vento e possedeva solo una fila di remi.
 
-b) Perché chi forniva i capitali diversificava gli investimenti?
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
+# 16 Rispondi brevemente alle seguenti domande.
+# a) Che cos’era la colleganza o commenda?
+In 2 dialetti italiani (veneto e genovese), indica l'associazione mercantile tra il comandante della nave e il fornitore.
 
-c) Perché l’attività di navigazione nel Mediterraneo, fino al Seicento, fu un’attività tipicamente estiva?
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
+# b) Perché chi forniva i capitali diversificava gli investimenti?
+Al fine di limitare i rischi di una eventuale perdita del capitale, molto spesso il capitale dell'investitore
+veniva diviso.
+
+# c) Perché l’attività di navigazione nel Mediterraneo, fino al Seicento, fu un’attività tipicamente estiva?
+Fino al '600 i viaggi navali si effettuavano solo in estate, poiché le imbarcazioni erano molto spesso 
+fragili e non sarebbero riuscite ad arrivare alla meta.
 
 VERIFICA LE TUE ABILITA' E CONOSCENZE
 17 Scrivi un testo – massimo due facciate di foglio protocollo – sulle cause che favorirono la nascita dei
 comuni in Italia.
+
 18 Compila la tabella relativa all’esperienza dei comuni in Italia spiegando il significato dei termini riportati.
-
 Consoli
-
 ..................................................................................................................................................................
 ..................................................................................................................................................................
 
@@ -580,18 +525,19 @@ Qual era il suo obiettivo principale?
 Perché la sua politica irritò i comuni italiani?
 Come si concluse lo scontro tra Federico Barbarossa e i comuni?
 Quali conseguenze ebbe?
-22 Definisci correttamente il significato del termine guelfi.
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
+
+# 22 Definisci correttamente il significato del termine guelfi.
+Dato che Federico I acquisì la corona imperiale e cercò di consolidare il proprio potere nel Regno d'Italia,
+venivano chiamati Guelfi coloro che sostenevano il papato.
 
 © SEI - Società Editrice Internazionale p.A. - Torino
 
 11
 
 Il Medioevo europeo - UNITÀ 1
-23 Definisci correttamente il significato del termine ghibellini.
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
+# 23 Definisci correttamente il significato del termine ghibellini.
+Dato che Federico I acquisì la corona imperiale e cercò di consolidare il proprio potere nel Regno d'Italia,
+venivano chiamati Ghibellini coloro che lo sostenevano.
 
 24 Compila la tabella relativa al confronto tra la teoria delle due spade e quella del sole e della luna.
 
@@ -655,66 +601,55 @@ a esercitare il potere
 
 ..............................................................................
 
-Metafora usata per definire
-il mondo degli uomini
+Metafora usata per definire il mondo degli uomini
+...
 
-Doveri e diritti
-del destinatario
+Doveri e diritti del destinatario
+...
 
-25 Completa la tabella relativa alla crociata contro Costantinopoli.
+# 25 Completa la tabella relativa alla crociata contro Costantinopoli.
 
-Quando si svolse
-Perché venne bandita
+# Quando si svolse
+La crociata si svolse fra il 1145 e il 1149.
 
-..................................................................................................................................................................
+# Perché venne bandita
+Venne bandita poiché i mussulmani avevano recuperato una città (Edessa) precedentemente conquistata dai crociati.
 
-..................................................................................................................................................................
-..................................................................................................................................................................
+# Chi vi partecipò
+Europa (principalmente Francia e Impero germanico) contro Islam
 
-Chi vi partecipò
+# Come si concluse
+Questa seconda crociatà si concluse con il completo fallimento dei cristiani, inoltre contribuì alla
+caduta di Gerusalemme, la quale avvenne solamnte circa 40 anni più tardi.
 
-..................................................................................................................................................................
-..................................................................................................................................................................
-
-Come si concluse
-Chi trasse vantaggi dalla
-crociata
+# Chi trasse vantaggi dalla crociata
+Questa crociata contrubuì al rafforzamento dei Mussulmani.
 
 12
-
-..................................................................................................................................................................
-
-..................................................................................................................................................................
-..................................................................................................................................................................
 
 © SEI - Società Editrice Internazionale p.A. - Torino
 
 1 Il Medioevo europeo
 26 Rispondi brevemente alle seguenti domande.
-a) Perché Enrico II, re d’Inghilterra, fece uccidere Thomas Becket, arcivescovo di Canterbury?
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
+# a) Perché Enrico II, re d’Inghilterra, fece uccidere Thomas Becket, arcivescovo di Canterbury?
+Visto che le scogliere con l'Atlantico erano controllati da Enrico, il quale imponeva contimuamente
+conponenti sacre e traumaturgiche sempre più accentuate, Thomas provò a contrapporsi a questo ideale
+di Enrico, il quale lo fece assassinare.
 
-b) Quali conseguenze ebbe questo fatto?
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
+# b) Quali conseguenze ebbe questo fatto?
+Enrico fu scomunicato, ma, nonostante ciò, l'Inghilterra era comunque uno dei paesi più
+potenti d'Europa.
 
-c) Perché Riccardo Cuor di Leone dedicò scarso interesse al suo Paese?
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
+# c) Perché Riccardo Cuor di Leone dedicò scarso interesse al suo Paese?
+Riccardo Cuor di Leone dedicò poco tempo ad amministrare proprio paese, ma preferì dedicarsi al
+combattimento.
 
-27 Rispondi brevemente alla seguente domanda.
-Perché è corretto affermare che la battaglia di Bouvines è stata crocevia della storia d’Europa?
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
+# 27 Rispondi brevemente alla seguente domanda.
+# Perché è corretto affermare che la battaglia di Bouvines è stata crocevia della storia d’Europa?
+Perché, con la Magna Charta Libertatum, sarà l'antenato dell'attuale monarchia costituzionale.
+Un'enorme svolta per la situazione di monarchia assoluta degli anni del Medioevo.
 
-28 Completa la tabella relativa alla battaglia di Bouvines.
-
+# 28 Completa la tabella relativa alla battaglia di Bouvines.
 # Quando si svolse
 La battaglia di Bouvines si svolge il 27 luglio 1214
 
@@ -751,15 +686,26 @@ I baroni sono i grandi signori d'Inghilterra
 
 Il Medioevo europeo - UNITÀ 1
 VERIFICA LE TUE ABILITA' E CONOSCENZE
-29 Scrivi un testo – massimo una facciata di foglio protocollo – relativo alla nascita del Parlamento inglese
+# 29 Scrivi un testo – massimo una facciata di foglio protocollo – relativo alla nascita del Parlamento inglese
 utilizzando le seguenti domande-guida.
-Quando venne istituita la Camera dei Lords?
-Quando venne istituita la Camera dei Comuni?
-Chi la istituì?
-Chi ne faceva parte?
-Quale fu l’importanza storica della Magna Charta Libertatum e quali furono le sue ricadute sulla monarchia inglese?
+# Quando venne istituita la Camera dei Lords?
+# Quando venne istituita la Camera dei Comuni?
+# Chi la istituì?
+# Chi ne faceva parte?
+# Quale fu l’importanza storica della Magna Charta Libertatum e quali furono le sue ricadute sulla monarchia inglese?
 
-
+La prima idea di parlamento inglese nacque sotto Edoardo I il quale avendo bisogno di riscuotere determinate imposte,
+convocò in un'assemblea tutti i grandi del Regno con un senso di rispettoso ossequio ma anche di consapevolezza della 
+propria  importanza affinché collaborassero alla ripartizione fiscale nell'ambito della propria circoscrizione.
+Questa fu la prima idea di parlamento. In seguito il re non convocò i rappresentanti delle città solo per esigenze 
+finaziarie, ma anche per raccogliere tutte le richieste e lamentele dei sui sudditi,per svolgere un'azione di governo 
+che rispondesse alle effettive esigenze locali. Il parlamento era formato da un'unic a assemblea presieduta dal re,
+il suo consigliere,baroni laici ed ecclesiastici ed infine, cavalieri e borghesi; questa era la "Camera Alta" detta 
+oggi "Camera dei Lords" (1258). La "Camera dei comuni" ebbe origine nelle riunioni non ufficiali di cavalieri e 
+borghesi (1275),qui poteva parlare solo lo speaker che era al servizio più della Corona che della Camera. 
+Una differenza tra le assemblee nate in Europa in quel periodo ed il Parlamento inglese era che questo, a differenza 
+delle assemblee,  erano divise in tre "stati": clero, nobiltà e borghesia, era diviso nelle due camere: Lords e comuni.
+Dopo la Mangna Charta Libertatum il potere regale non riuscì più a godere di un'autorità sovrumana.
 
 VERIFICA LE TUE ABILITA' E CONOSCENZE
 30 Scrivi un testo – massimo una facciata di foglio protocollo – sulla concezione politica di Federico II e le
