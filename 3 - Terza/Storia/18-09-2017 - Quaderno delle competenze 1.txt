@@ -205,52 +205,19 @@ rafforzare il proprio prestigio? Qual era l’obiettivo politico di Ottone I?
 
 
 5) Compila la tabella relativa alla regalità sacra.
-
+Francia -> [F]
+Inghilterra -> [I]
 Periodo in cui si sviluppò
+[F]
+[I]
 
 Suoi contenuti
+[F]
+[I]
 
 Motivo della sua diffusione
-
-Francia
-
-Inghilterra
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
-
-..............................................................................
+[F]
+[I]
 
 VERIFICA LE TUE ABILITA' E CONOSCENZE
 6 Scrivi un testo – massimo una facciata di foglio protocollo – sulla lotta per le investiture 
@@ -304,32 +271,28 @@ di un laico, anche se imperatore.
 [G] Il Papa riceve da Dio sia il potere spirituale
 [E] Il Papa riceve il permesso dall'imperatore per poterr detenere il potere spirituale
 
-Armi usate durante la lotta
-[G]
-[E]
+# Armi usate durante la lotta
+[G] Scomunica Enrico
+[E] Deposizione del pontefice da 26 vescovi
 
-Come si concluse la lotta
-[G]
-[E]
+# Come si concluse la lotta
+[G] Gregorio ribadisce la sua sacralità
+[E] Enrico si reca da Gregorio coperto con un sacco
 
-Quali furono le sue
+# Quali furono le sue
 conseguenze
-[G]
-[E]
+Stipularono il concordato di Worms, il quale pose fine alla lotta per le investiture
 
 2. Le rivoluzioni economiche del Basso Medioevo
 8 Rispondi brevemente alle seguenti domande.
-a) Quali atteggiamenti estremi arrivarono ad attuare i più disperati durante i periodi di carestia?
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
+# a) Quali atteggiamenti estremi arrivarono ad attuare i più disperati durante i periodi di carestia?
+I più disperati arrivavano anche a nutrirsi di carne umana, radici, erbe dei campi.
 
-b) Quali furono le cause della malattia chiamata fuoco di Sant’Antonio che colpì le popolazioni europee a partire dalla fine del x secolo?
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
+# b) Quali furono le cause della malattia chiamata fuoco di Sant’Antonio che colpì le popolazioni europee a partire dalla fine del x secolo?
+L'incerimento di un fungo dei cereali provocò la terribile malattia chiamata Fuoco sacro/Fuoco di Sant'Antonio
 
-c) Quali conseguenze ebbe l’incremento demografico dell’xi secolo?
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
+# c) Quali conseguenze ebbe l’incremento demografico dell’xi secolo?
+L'aumento demografico non fece altro che far sentire maggiormente la carestia dell'epoca.
 
 © SEI - Società Editrice Internazionale p.A. - Torino
 
@@ -368,7 +331,7 @@ c) Quali conseguenze ebbe l’incremento demografico dell’xi secolo?
 © SEI - Società Editrice Internazionale p.A. - Torino
 
 1 Il Medioevo europeo
-11 Completa la tabella relativa alla prima crociata.
+# 11 Completa la tabella relativa alla prima crociata.
 
 # Periodo in cui si svolse
 27 settembre 1097
@@ -380,9 +343,9 @@ Urbano II e i mussulmani che residevano nelle zone della Palestina
 Urbano II voleva liberare Gerusalemme e dimostrare la suprema autorità politico-militare del papa.
 I mussulmani, invece, volevano espandersi verso l'impero Bizzantino.
 
-Che cosa accadde nella valle del Reno nel 1096
-
-..................................................................................................................................................................
+# Che cosa accadde nella valle del Reno nel 1096
+Quando i gruppi crociati passarono per la valle del Reno fecero strage delle fiorenti comunità 
+ebraiche di quella regione.
 
 # Come si comportarono gli eserciti crociati a Gerusalemme
 I soldati di Urbano, senza scrupoli, trucidarono tutti coloro trovavano lungo la propria strada facendo zampillare
