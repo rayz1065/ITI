@@ -1,0 +1,17 @@
+RS -> Ortografia
+WW -> Scelta del termine
+T -> Tempo verbale
+M -> Modo verbale
+WS -> sintassi
+^ -> Manca qualcosa
+V -> Verbo
+Pron -> Pronome
+Konj -> Congiunzione
+F -> Caso
+K -> Coniugazione
+G -> Articolo sbagliato
+D -> Declinazione
+A -> Espressione
+Pl -> Pluale
+Sg -> Singolare
+GR -> Grammatica

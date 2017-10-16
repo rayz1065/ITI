@@ -125,7 +125,7 @@ solo con un sacco.
 1 Il Medioevo europeo
 
 1. Potere e strutture politiche nel Medioevo europeo
-1 Rispondi brevemente alle seguenti domande:
+# 1 Rispondi brevemente alle seguenti domande:
 # a) Qual era la situazione delle città nell’Occidente latino tra l’viii e il x secolo?
 In questo periodo le città si stavano riprendendo dopo al calo demografico, ma allo stesso tempo persero di importanza, 
 le sedi amministrative
@@ -142,14 +142,14 @@ posta a mo' di sella sul cavallo, al fine di avere maggior stABILITA' sul cavall
 anche armi da lancio e di avere maggiore stabilita con la propria arma, sostituendo così la forza umana con l'energia
 animale.
 
-d) In che cosa consisteva il corredo del cavaliere?
-In un armatura metallica rigida e pesante , 
+# d) In che cosa consisteva il corredo del cavaliere?
+Il corredo del cavaliere consistve in un'armatura metallica rigida e pesante, la quale lo proteggeva dalle lance e frecce
+nemiche.
 
 e) Perché si parla di rivoluzione sociale relativamente all’organizzazione dell’esercito di cavalieri?
-........................................................................................................................
-..............................................................................................................
-........................................................................................................................
-..............................................................................................................
+In questo momento i cavalieri guadagnano importanza, diventano ora una figura quasi di venerazione, per le donne
+figure mitologiche e con lo stesso sovrano guadagnano confidenza.
+Il cavaliere deve ora comprarsi da se il cavallo e la propria armatura, costosissimi per l'epoca
 
 # f ) Come era divisa la società medievale verso la metà dell’viii secolo?
 La società in questo periodo era di tipo feudale, ovvero era divisa in appezzamenti di terreno gestiti dal feudatario.
@@ -180,7 +180,7 @@ esercito pronto a lottare al fianco del signore feudatario.
 5
 
 Il Medioevo europeo - UNITÀ 1
-3 Rispondi brevemente alle seguenti domande.
+**3 Rispondi brevemente alle seguenti domande.
 # a) In quale area geografica Carlo aveva costruito il suo impero? Quali differenze territoriali presentava con l’antico
 impero romano?
 Il Sacro romano impero si espande in tutta la zona settentrionale dell'Italia, tutto il centro europa sino alla Baviera, 
@@ -188,32 +188,30 @@ Sassonia e i Pirenei.
 
 b) Quali elementi di origine bizantina furono introdotti nella cerimonia di incoronazione di Carlo? Tali elementi
 rispettarono il preciso ordine del rituale bizantino?
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
+L'acclamazione dei soldati, del senato e del popolo verso l'imperatore, il quale veniva incoronato dal patriarca.
 
-c) Per quali motivi il Sacro romano impero nacque all’insegna dell’ambiguità tra impero e papato?
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................
+# c) Per quali motivi il Sacro romano impero nacque all’insegna dell’ambiguità tra impero e papato?
+Durante l'incoronazione di Carlo, futuro imperatore del Sacro romano impero, fu proprio il Papa ad affidargli questo
+ruolo, come per sottolineare la sua superiorità rispetto all'imperatore stesso.
 
 VERIFICA LE TUE ABILITA' E CONOSCENZE
-4) Scrivi un testo – massimo una facciata di foglio protocollo – sull’impero tedesco e il regno di Francia
+**4) Scrivi un testo – massimo una facciata di foglio protocollo – sull’impero tedesco e il regno di Francia
 utilizzando le seguenti domande-guida.
 Che cosa successe all’impero dopo la morte di Carlo Magno? Che cosa introdusse il capitolare di Quierzy? Che
 conseguenze ebbe? Che cosa provocò il sistema dell’ereditarietà dei feudi? A che cosa ricorsero i sovrani per
 rafforzare il proprio prestigio? Qual era l’obiettivo politico di Ottone I?
 
 
-5) Compila la tabella relativa alla regalità sacra.
+**5) Compila la tabella relativa alla regalità sacra.
 Francia -> [F]
 Inghilterra -> [I]
 Periodo in cui si sviluppò
 [F]
-[I]
+[I] All'inizio del XII secolo
 
 Suoi contenuti
 [F]
-[I]
+[I] Sovrano aveva ricevuto potere da Dio
 
 Motivo della sua diffusione
 [F]
@@ -480,13 +478,25 @@ Il primo imperatore che si mise alla ricerca di nuove strade al fine di rafforza
 Federico I di Svevia, anche soprannominato Barbarossa
 
 VERIFICA LE TUE ABILITA' E CONOSCENZE
-21 Scrivi un testo – massimo due facciate di foglio protocollo – su Federico I di Svevia utilizzando le seguenti domande-guida.
-Quando e perché Federico Barbarossa convocò l’assemblea di Roncaglia?
-Che cosa intendeva rivendicare?
-Qual era il suo obiettivo principale?
-Perché la sua politica irritò i comuni italiani?
-Come si concluse lo scontro tra Federico Barbarossa e i comuni?
-Quali conseguenze ebbe?
+# 21 Scrivi un testo – massimo due facciate di foglio protocollo – su Federico I di Svevia utilizzando le seguenti domande-guida.
+# Quando e perché Federico Barbarossa convocò l’assemblea di Roncaglia?
+# Che cosa intendeva rivendicare?
+# Qual era il suo obiettivo principale?
+# Perché la sua politica irritò i comuni italiani?
+# Come si concluse lo scontro tra Federico Barbarossa e i comuni?
+# Quali conseguenze ebbe?
+
+Nel dicembre 1154 e nel novembre 1158 Federico Barbarossa convocò sia i rappresentanti imperiali che le autorità comunali,
+ma anche gli emissari papali a Roncaglia con l'obiettivo di Federico era affrontare il crescente pfrestigio dei comuni,
+una situazione che si stava ponendo contro i voleri imperiali.
+Con questi convegli voleva rivendicare i diritti dell'imperatore sui comuni, in modo da poter nuovamente risquotere tasse
+imporre un'unica lingua nel territorio, di controllare la costruzione delle muraglie difensive, di richiedere la presenza
+trai magistrati del comune e di ridurre a 0 le comunicazioni fra le varie città se non passando per l'impero stesso.
+Questo per lo scopo di avere un'autorità tale da poter governare anche la signoria e il papato.
+I comuni, credendo di essere nella parte del giusto e volenterosi di indipendenza, erano notevolmente irritati esigendo
+la possibilità di autogestirsi, ma il verdetto non fu così immediata. Ben presto si coalizzarono per formare un
+esercito tale da costringere Federico a firmare la pace di Costanza e con questa di dare numerosi permessi ai comuni.
+
 
 # 22 Definisci correttamente il significato del termine guelfi.
 Dato che Federico I acquisì la corona imperiale e cercò di consolidare il proprio potere nel Regno d'Italia,
