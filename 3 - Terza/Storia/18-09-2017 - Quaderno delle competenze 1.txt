@@ -180,15 +180,18 @@ esercito pronto a lottare al fianco del signore feudatario.
 5
 
 Il Medioevo europeo - UNITÀ 1
-**3 Rispondi brevemente alle seguenti domande.
+# 3 Rispondi brevemente alle seguenti domande.
 # a) In quale area geografica Carlo aveva costruito il suo impero? Quali differenze territoriali presentava con l’antico
 impero romano?
 Il Sacro romano impero si espande in tutta la zona settentrionale dell'Italia, tutto il centro europa sino alla Baviera, 
 Sassonia e i Pirenei.
 
-b) Quali elementi di origine bizantina furono introdotti nella cerimonia di incoronazione di Carlo? Tali elementi
+3 b) Quali elementi di origine bizantina furono introdotti nella cerimonia di incoronazione di Carlo? Tali elementi
 rispettarono il preciso ordine del rituale bizantino?
-L'acclamazione dei soldati, del senato e del popolo verso l'imperatore, il quale veniva incoronato dal patriarca.
+La cerimonia di incoronazione di Carlo iniziò con l'acclamazione dei soldati, del senato e del popolo verso l'imperatore, 
+successivamente Carlo veniva incoronato dal patriarca stesso.
+La differenza dalle cerimonie bizzantine è che in Oriente l'imperatore aveva completa carica anche sulla Chiesa, mentre
+nell'icoronazione di Carlo sottolineava la minor importanza dell'imperatore rispetto al papa.
 
 # c) Per quali motivi il Sacro romano impero nacque all’insegna dell’ambiguità tra impero e papato?
 Durante l'incoronazione di Carlo, futuro imperatore del Sacro romano impero, fu proprio il Papa ad affidargli questo
@@ -214,6 +217,22 @@ poter contare sulla fedeltà e l'obbedienza di almeno una parte di coloro che am
 Ottone sceglieva attentamente i candidati per la carica di feudatari, selezionando i vescovi, i quali non avrebbero più potuto
 ereditare i terreni, poiché non avrebbero potuto avere figli legitimi.
 
+5) Compila la tabella relativa alla regalità sacra.
+Francia -> [F]
+Inghilterra -> [I]
+Periodo in cui si sviluppò:
+[F] Seconda metà del XI secolo
+[I] All'inizio del XII secolo
+
+Suoi contenuti:
+[F] Sovrano aveva il potere di compiere guarigioni miracolose con un semplice tocco,
+rendendosi così una ficura di altissima importanza per i cittadini.
+[I] Sovrano aveva ricevuto potere da Dio, Dio gli suggeriva cosa compiere.
+
+Motivo della sua diffusione:
+[F] Il sovrano era in questo periodo un piccolo feudatario e, se non fosse stato per qualche scusante,
+ben presto gli altri proprietari terreni si sarebbero ribellato per il potere.
+[I] Per cedere maggiore autorità all'imperatore, il quale guadagna ore anche un potere spirituale.
 
 VERIFICA LE TUE ABILITA' E CONOSCENZE
 6 Scrivi un testo – massimo una facciata di foglio protocollo – sulla lotta per le investiture 

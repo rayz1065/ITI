@@ -1,11 +1,14 @@
 1 e) Perché si parla di rivoluzione sociale relativamente all’organizzazione dell’esercito di cavalieri?
 In questo momento i cavalieri guadagnano importanza, diventano ora una figura quasi di venerazione, per le donne
 figure mitologiche e con lo stesso sovrano guadagnano confidenza.
-Il cavaliere deve ora comprarsi da se il cavallo e la propria armatura, costosissimi per l'epoca
+Il cavaliere deve ora comprarsi da se il cavallo e la propria armatura, costosissimi per l'epoca.
 
 3 b) Quali elementi di origine bizantina furono introdotti nella cerimonia di incoronazione di Carlo? Tali elementi
 rispettarono il preciso ordine del rituale bizantino?
-L'acclamazione dei soldati, del senato e del popolo verso l'imperatore, il quale veniva incoronato dal patriarca **
+La cerimonia di incoronazione di Carlo iniziò con l'acclamazione dei soldati, del senato e del popolo verso l'imperatore, 
+successivamente Carlo veniva incoronato dal patriarca stesso.
+La differenza dalle cerimonie bizzantine è che in Oriente l'imperatore aveva completa carica anche sulla Chiesa, mentre
+nell'icoronazione di Carlo sottolineava la minor importanza dell'imperatore rispetto al papa.
 
 3 c) Per quali motivi il Sacro romano impero nacque all’insegna dell’ambiguità tra impero e papato?
 Durante l'incoronazione di Carlo, futuro imperatore del Sacro romano impero, fu proprio il Papa ad affidargli questo
@@ -33,26 +36,27 @@ ereditare i terreni, poiché non avrebbero potuto avere figli legitimi.
 5) Compila la tabella relativa alla regalità sacra.
 Francia -> [F]
 Inghilterra -> [I]
-Periodo in cui si sviluppò
-[F] **
+Periodo in cui si sviluppò:
+[F] Seconda metà del XI secolo
 [I] All'inizio del XII secolo
 
-Suoi contenuti
-[F] **
-[I] Sovrano aveva ricevuto potere da Dio
+Suoi contenuti:
+[F] Sovrano aveva il potere di compiere guarigioni miracolose con un semplice tocco,
+rendendosi così una ficura di altissima importanza per i cittadini.
+[I] Sovrano aveva ricevuto potere da Dio, Dio gli suggeriva cosa compiere.
 
-Motivo della sua diffusione
-[F] **
-[I] **
+Motivo della sua diffusione:
+[F] Il sovrano era in questo periodo un piccolo feudatario e, se non fosse stato per qualche scusante,
+ben presto gli altri proprietari terreni si sarebbero ribellato per il potere.
+[I] Per cedere maggiore autorità all'imperatore, il quale guadagna ore anche un potere spirituale.
 
-VERIFICA LE TUE ABILITA' E CONOSCENZE
-# 21 Scrivi un testo – massimo due facciate di foglio protocollo – su Federico I di Svevia utilizzando le seguenti domande-guida.
-# Quando e perché Federico Barbarossa convocò l’assemblea di Roncaglia?
-# Che cosa intendeva rivendicare?
-# Qual era il suo obiettivo principale?
-# Perché la sua politica irritò i comuni italiani?
-# Come si concluse lo scontro tra Federico Barbarossa e i comuni?
-# Quali conseguenze ebbe?
+21) Scrivi un testo – massimo due facciate di foglio protocollo – su Federico I di Svevia utilizzando le seguenti domande-guida.
+Quando e perché Federico Barbarossa convocò l’assemblea di Roncaglia?
+Che cosa intendeva rivendicare?
+Qual era il suo obiettivo principale?
+Perché la sua politica irritò i comuni italiani?
+Come si concluse lo scontro tra Federico Barbarossa e i comuni?
+Quali conseguenze ebbe?
 
 Nel dicembre 1154 e nel novembre 1158 Federico Barbarossa convocò sia i rappresentanti imperiali che le autorità comunali,
 ma anche gli emissari papali a Roncaglia con l'obiettivo di Federico era affrontare il crescente pfrestigio dei comuni,
@@ -64,3 +68,4 @@ Questo per lo scopo di avere un'autorità tale da poter governare anche la signo
 I comuni, credendo di essere nella parte del giusto e volenterosi di indipendenza, erano notevolmente irritati esigendo
 la possibilità di autogestirsi, ma il verdetto non fu così immediata. Ben presto si coalizzarono per formare un
 esercito tale da costringere Federico a firmare la pace di Costanza e con questa di dare numerosi permessi ai comuni.
+[...]
