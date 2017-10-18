@@ -16,6 +16,6 @@ int main()
 	int n;
 	cout<<"Immetti il tuo numero"<<endl;
 	cin>>n;
-	successivi(n)
+	successivi(n);
 	return 0;
 }
