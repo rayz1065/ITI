@@ -1,0 +1,37 @@
+			DENSITA'
+OBIETTIVO:
+1)
+	Ricavare la densità di un sasso
+2)
+	Distruggere le diverse densità dei liquidi
+
+TEORIA:
+La densità di una sostanza, anche chiamata peso specifico, è il peso di un volume unitario della sostanza stessa.
+Essa si ricava mediante il rapporto fra massa(g)/volume(cm^3)
+
+MATERIALE:
+1)
+	- Bilancia digitale (p=1kg s=0,01g)
+	- Cilindro graduato (p=100ml s=1ml)
+	- Sasso
+2)
+	- 4 cilindri graduati (portata e sensibilità non rilevanti)
+	- Olio
+	- Acqua
+	- Glicerolo 
+
+PROCEDURA:
+1)
+	Innanzitutto pesare il sasso mediante la bilancia digitale, prendere il cilindro graduato e riempirlo per circa 2 terzi di acqua.
+	Appuntare il volume corrente del fluido mediante la scala graduata posta sul cilindro graduato e successivamente immergere il
+	sasso cercando di evitare fuoriuscite di liquido.
+	Rilevare e appuntare il volume attuale e calcolarne la differenza di volume rispetto alla fase precedente: questa equivale al 
+	volume del sasso (in litri).
+	Calcolare ora il rapporto fra la massa e il volume del sasso, definendone così la densità.
+2)
+	Innanzitutto prendere i 3 cilindri graduati contenenti relativamente olio, acqua e glicerolo e quello vuoto.
+	Versare nel cilindro vuoto parte di tutti e tre i liquidi e attendere che il miscuglio sia in equilibro.
+	Osservare ora la disposizione dei fluidi: sotto di disporrà il gricerolo (di colore biancastro), in mezzo l'acqua (trasparente) e 
+	in superficie l'olio (di colore giallastro).
+	Possiamo dedurre quindi che, poiché l'olio ha densità minore dell'acqua, esso galleggerà, mentre, poiché il gricerolo ha una densità 
+	maggiore dell'acqua, esso di disporrà sul fondo.
