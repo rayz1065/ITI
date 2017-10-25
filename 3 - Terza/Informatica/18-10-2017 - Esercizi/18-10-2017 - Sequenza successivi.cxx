@@ -6,7 +6,7 @@ void successivi(int n)
 	int m;
 	for (int i=1;i<6;i++)
 	{
-		m=n+1;
+		m=n+i;
 		cout<<m<<endl;
 	}
 }
