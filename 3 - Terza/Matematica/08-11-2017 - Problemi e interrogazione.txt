@@ -1,0 +1,11 @@
+cateto = ipotenusa per seno dell'angolo opposto
+cateto = ipotenusa per coseno dell'angolo adiacente
+cateto = l'altro cateto per tangente dell'angolo opposto
+cateto = l'altro cateto per cotangente dell'angolo adiacente
+
+Dato un parallelogramma avente il lato obliquo di 12cm e il lato sucessivo di 28cm, sapendo che l'angolo fra
+essi compresi musura π/3 calcolare l'area della figura data.
+h=l*sin60=6√3cm
+A=28*6√3=168√3cm²
+
+

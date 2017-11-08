@@ -1,0 +1,36 @@
+I linguaggi interpretati necessitano un programma interprete il quale converte le istruzioni in serie di 0 e 1.
+Generalmente sono più facile che siano compatibili con i vari sistemi operativi, ma necessitano di questo software
+interprete.
+Java Phyton
+
+Nei linguaggi compilati, il sistema operivo stesso interpreta e converte in serie di 0 e 1 il software eseguito.
+Non necessita di un software esterno, bensì di un compilatore. E' molto probabile che non sia compatibile con altri
+sistemi operativi.
+C C# C++
+
+Anche il C++ ha il proprio lessico (insieme di parole che fanno parte del "vocabolario" del linguaggio) e sintassi
+(regole che si devono seguire al fine di creare il nostro programma).
+Il linguaggio C++ ci permette di creare dei programmi ben trutturati, ovvero creato con le 3 strutture di controllo.
+
+I commenti si creano con /*...*/ e * ogni riga oppure // sulla singola riga.
+Questi permetto di documentare il programma al fine di facilitare la manutenzione.
+
+Si inizia con "#include <iostream>" il quale permette di scrivere input/output
+per risparmiare tempo e avere la certezza del funzionamento, includiamo delle librerie, le quali sono state create
+da sviluppatori esperti e testate.
+"using namespace std;" il quale permette di utilizzare automaticamente "std::-" come prefisso delle funzioni sucessive.
+Tutti i programmi che creeremo utilizzare il "contenitore" namespace std
+"int main(*){
+	**
+	return 0;
+}" il quale dichiara la funzione principale.
+* Parametri avanzati
+** Istruzioni del programma
+int -> intero
+oppure
+"void main(){
+	**
+}"
+Tutte le istruzioni devono finire con ';'
+
+C++ è un linguaggio KEY SENTITIVE, ovvero riconosce le differenze fra lettere maiuscole e minuscole.

@@ -1,0 +1,14 @@
+Basetta sperimentale
+3-4 boccole isolae dalla basetta
+bisogna fare un ponte
+
+rosso +
+nero -
+
+spinotto banano (va inserito nelle boccole)
+spinotto coccodrillo
+
+= righe
+|| colonne
+
+sopra 2 righe, poi tante colonne
