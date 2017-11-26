@@ -1,0 +1,6 @@
+2sin(x/3)+√3=0
+sin(x/3)=-√3/2
+x/3=90°+-(90°-(-60°))+k360°
+x=270°+-300°+k1080°
+
+*Schede di esercizi in coppie*

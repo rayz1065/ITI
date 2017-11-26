@@ -1,0 +1,9 @@
+4 chiavi 
+y=cassaforte aperta
+
+67¹º=01000011²
+100¹º=01100100²
+25¹º=00011001²
+50¹º=00110010²
+
+*Correzione compito TPISIT 15-11-2017*

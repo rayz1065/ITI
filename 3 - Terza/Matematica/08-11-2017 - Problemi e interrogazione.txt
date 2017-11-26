@@ -7,5 +7,3 @@ Dato un parallelogramma avente il lato obliquo di 12cm e il lato sucessivo di 28
 essi compresi musura π/3 calcolare l'area della figura data.
 h=l*sin60=6√3cm
 A=28*6√3=168√3cm²
-
-

@@ -1,0 +1,16 @@
+SERIE
+	La tesione si ripartisce lungo la serie
+	V1=R2*V/(R1+R2+R3)
+	Req=R1+R2...
+	
+	R1=100Ω
+	R2=47Ω
+	R3=330Ω
+	
+	I=11mA
+	
+	V1=1,1V
+	V2=0,52V
+	V3=3,63V
+	
+PARALLELO
