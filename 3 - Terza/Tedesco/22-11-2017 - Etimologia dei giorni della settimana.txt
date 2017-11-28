@@ -1,0 +1,74 @@
+Sin dall'antichità si nominarono i giorni della settimana con i nomi delle divinità/astri
+lunae-dies // Luna
+Monday // Luna
+Montag // Luna
+
+martis-dies // Marte
+Tuesday // Tiw -> Tyr -> Un dio germanico che mise la sua mano nelle fauci di un lupo al fine di giurare verità
+Dienstag // das Thing -> Assemblea sacra
+
+mercurii-dies // Mercurio
+Wednesday // Woden -> Wotam -> Odinn -> Odino
+Mittwoch // Metà settimana
+
+ioris-dies // Giove
+Thursday // Thunder -> Tuono/Saetta
+Donnerstag // Donar -> Donner -> Tuono
+
+veneris-dies // Venere
+Friday // Freya -> Afrodite, dio della bellezza e dell'amore
+Freitag // Freya
+
+Samstag // Sabbat -> riposo per gli ebraici
+
+domini-dies // Giorno del creatore
+Sonntag // Sonne -> Sole
+
+---
+
+Dalla prossima lezione interrogherò 2 o 3 persone alla volta.
+Il voto rispecchierà per il 75% la vostra conoscenza della lingua,
+per il 25% quello che ho spiegato in classe.
+
+---
+
+Der Geruch -> Odore
+beleben -> riavviare
+
+Declinazione dell'aggettivo:
+DET
+		M	F 	N 	P
+	N	-e 	-e 	-e 	-en
+	A 	-en -e 	-e 	-en
+	D 	-en	-en -en -n+
+	G 	-n+	-en -n+ -en
+	
+IND
+		M	F 	N 	P
+	N	-er	-e 	-s 	-en
+	A 	-en -e 	-s 	-en
+	D 	-en	-en -en -n+
+	G 	-n+	-en -n+ -en
+	
+KEINE
+		M	F 	N 	P
+	N	-er	-e	-s 	-e
+	A 	-en -e 	-s 	-e
+	D 	-em	-er -em -en+
+	G 	-s+	-er -s+	-en
+
+---
+
+Possibili domande per verifica:
+-Parla sui germanici
+
+-Cosa hai fatto il weekend?
+	Il weekend sono stato a casa e ho giocato computer con degli amici tedeschi. Purtroppo c'era anche un ragazzo dell'Inghilterra e quindi abbiamo parlato inglese. Alle 19 ho preso il bus per venire a Bolzano e a Ora ho dovuto prendere il treno.
+	Am Wochenende bin ich zu Hause geblieben und ich mit einigen deutschen Freunden am Computer gespielt.
+	Leider war es einen Junge von England und so sprachen wir English.
+	Um 19 Uhr habe ich den Bus nach Bozen genommen und in Auer habe ich der Zug genommen.
+
+-Come vai a scuola?
+	Die Schule finde ich interessant, aber ich finde die technischen Fächer besser als die literarischen.
+	SYSTEME UND NETZE -> sistemi e reti
+	

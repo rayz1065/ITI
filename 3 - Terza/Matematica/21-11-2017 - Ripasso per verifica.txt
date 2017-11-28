@@ -1,0 +1,9 @@
+c=a*sinγ // cateto = ipotenusa per seno dell'angolo opposto
+c=a*cosβ // cateto = ipotenusa per coseno dell'angolo adiacente
+c=b*tanγ // cateto = l'altro cateto per tangente dell'angolo oposto
+c=b*cotanβ // cateto = l'altro cateto per la cotancente dell'angolo adiacente
+
+sinα/a=sinβ/b=sinγ/c
+a²=b²+c²-2bc*cosα
+
+*esercizi alla lavagna*
