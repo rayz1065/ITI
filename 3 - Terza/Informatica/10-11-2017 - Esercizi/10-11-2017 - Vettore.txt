@@ -1,0 +1,6 @@
+Un vettore è una struttura di dati omogenea, con la caratteristica di identificare con un solo identificatore,
+un insieme di elementi dello stesso tipo.
+
+Tipo identificatore[dimensione];
+
+int v[6];

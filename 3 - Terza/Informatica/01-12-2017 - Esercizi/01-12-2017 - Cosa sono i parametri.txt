@@ -1,0 +1,1 @@
+I parametri sono i valori o i dati sulla quale la funzione esegue delle operazioni

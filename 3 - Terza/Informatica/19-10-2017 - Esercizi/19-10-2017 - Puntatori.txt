@@ -1,0 +1,25 @@
+int sucessivo (int x) {
+	int a;
+	a=x+1;
+	return a;
+}
+
+int main() {
+	int k,s;
+	cin>>k;
+	s=sucessivo(k);
+	cout<<s;
+}
+
+In questo modo passiamo il parametro per valore, ma possiamo anche passarlo per indirizzo:
+
+int precedente (int& x) {
+	return x--;
+}
+
+int main() {
+	int k,s;
+	cin>>k;
+	precedente(k);
+	cout<<k;
+}
