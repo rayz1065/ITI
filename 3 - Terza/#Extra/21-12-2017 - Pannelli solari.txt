@@ -1,0 +1,185 @@
+- 21.12.2017 -
+Donato Vincenzi
+Università di Ferrara
+
+//TERZA ORA
+
+Target, obiettivo (rotazione ed elevazione)
+L'obiettivo non deve essere per forza uguale a quello attuale, questo implica un movimento da parte del pannello.
+I pannelli di Ragusa, per esempio sono molto fitti e se si muovessero tutti insime sarebbe un guaio, necessario controllo.
+¹Differenza fotodiodi est-ovest, non si usano quelli su-giù, altrimenti in caso nuvoloso girerebbe su se stesso verso l'alto,
+poiché la luce sarebbe nel punto sulla verticale.
+
+*sorge il sole alle 10:10 circa e visita al pannello*
+
+Tutti i motori sono dotati di finecorsa per evitare urti.
+la periferica (slave) misura costantemente.
+troppa oscillazione -> orizzontale
+Heading -> proiezione del nord magnetico sul piano orizzontale (accellerometro)
+variabili: pich (assetto) roll (iclinazione) io (imbardata)
+
+La magnetizzazione funziona bene su un aereo di legno
+Vicino ad una struttura in cemento armato non è precisa
+lookup table -> confronto fra dato reale e quello rilevato
+Io andrò a lavorare proprio a creare questa tabella.
+Il sistema usa un software che esegue il "modbus calling", ogni minuto archivia i dati.
+
+Per salvare i dati li scriviamo in un csv (comma separated value), un file di testo importabile anche da EXCEL
+Questo sistema non è il migliore, ma il più semplice da realizzare
+Questi file di solito vanno memorizzati in un file migliore
+Da questa tabella posso creare un grafico.
+
+PROVA AD INTERROGARE IL SISTEMA:
+Ora proviamo ad interrogare manalmente
+04 03 00 02 00 04\ 64 5D
+come interpretare i dati?
+slave nomero 4, esegui la funzione 3 a partire al registro 2 (0002) e leggi 4 registri (0004), successivamente metto i caratteri di controllo
+Lo slave ci risponde
+04 05 08 00 11 00 0C 00 15 00 0B
+sono lo slave numero 4, mi hai detto di eseguire una lettura e ti rispondo con 8 byte (08):
+0011 -> 17 -> anno
+000C -> 12 -> mese
+0015 -> 21 -> giorno
+000B -> 11 -> ore
+
+/*
+VERSIONE
+RELASE
+ANNO
+MESE
+GIORNO
+ORA
+MINUTI
+SECONDI
+Elevazione
+Soglia intensità dark (soglia luce per dire che é notte)
+Azimuth (riferito verso sud)
+Soglia intensità cloudy sicuro (soglia luce per dire che é nuvoloso)
+Elevazione programmata
+oglia intensità cloudy probabile (soglia luce per dire che c'è foschia)
+Azimuth Programmato
+Differenza luminosa est ovest¹
+fotodiodo basso
+fotodiodo alto
+fotodiodo ovest
+fotodiodo est
+irradianza (W/m²) 1000W/m² totale -> 850W/m²{Sole}+250W/m²{Diffusione atmosfera}
+logflag - etichetta evento (motivo del'errore)
+ora inizio
+ora fine
+etichetta posizione di ritorno
+accellerazione (m/s²)
+soglia salvataggio dati
+magnetizzazione (tesla o gaos)
+temperatura [Non presente nel nostro sistema]
+durata massima movimento
+*/
+---
+//QUARTA ORA
+Curve caratteristiche delle celle fotovoltaiche
+I in funzione di V 
+Il nostro scopo è trovare il miglior prodotto possibile fra V e I 
+Nel nostro caso è a circa metà della curva.
+
+I parametri che adoperiamo per identificare una cella è
+- Corrente di corto circuito
+- Corrente nel punto di massima potenza
+- Voltaggio nel punto di massima potenza
+- Voltaggio massimo
+
+Diodo ideale -> massima corrente fino al massimo voltaggio
+FF = area sottesa dal diodo attuale fratto l'area del diod ideale. (Fatore di riempimento)
+FF= 80%
+FF indica la qualità della cella fotovoltaico
+
+Un altro modo per contare l'efficienza è il rendimento:
+P out -> potenza della cella (Vmax*Imax)
+P in -> potenza in entrata
+η=Pout/Pin = Imax*Vmax/Pin
+
+Più la temperatura è bassa, meglio lavora un fotovoltaico.
+La temperatura influisce molto sulla resa delle celle a silicio.
+
+Come differenziare una cella a silicio da un'altra?
+Dobbiamo guardare il voltaggio massimo. (0,6 silicio)
+Nei grafici che abbiamo rilevato possiamo notare l'oscillamento sinusoidale
+della corrente che alimentava la lampada.
+
+Per capire il rendimento di una cella non basta saperne la potenza, ma dobbiamo anche
+capirne la dimensione. (m²)
+
+Con i nuovi rilevamenti possiamo notare un alto voltaggio, quindi non si tratta sicuramente di silicio,
+è creato da elementi misti, quindi il voltaggio si somma.
+Questo tipo di celle è attraversato dai filamenti d'oro.
+Possiamo notare un decremento notevole dell'intensità del tempo.
+Queste carateristiche si verificano perché stiamo utilizzando una lampada elettrica, mentre queste celle
+miste sono pensate per essere mandate in orbita.
+---
+//PRIMA ORA
+Inglese indispensabile
+*ripasso lezione precendente*
+Funzioni:
+03 -> lettura
+06 -> scrittura
+
+Whach dog timer -> tutti i dispositivi ne sono dotati
+Il WDT vi è in tutti i microprocessori, è una bomba a tempo: noi la impostiamo a 2 secondi,
+se il programma funziona male, sta facendo un operazione sbagliata quindi non resetta WDT,
+e resetta il sistema.
+Periferica è per definizione un sottostistema che svogle una funzione in maniera autonoma e comunica al
+sistema i dati rilevati.
+In un microprocessore ci sono tantissime periferiche:
+- USB
+- TIMER
+- EUSART (Rs-485)
+
+Analogico è un segnale che cambia con continuità
+digitale è un segnale che è rappresentato da un digi (numero)
+
+Il nostro scopo è comunicare i dati con un inseguitore solare.
+Questo inseguitore trova la luce del sole e quella che diffonde l'atmosfera.
+L'albedo è la frazione di luce che viene riflessa dal gas/armosfera.
+La diffusione avviene a seconda della lunghezza d'onda, quindi per questo motivo il cielo è azzurro
+I tramonti sembrano rossi perché i gas con particelle maggiori riflettono/diffondono anche le lunghezze d'onda minore.
+
+L'INSEGUITORE
+Gnomone è la parte che fa ombra, come il bastoncino della merdiana.
+Se io ho il mio sistema e 2 fotodiodi, a seconda dell'altezza del Sole, un fotodiodo sarà più coperto dall'0mbra dello gnomone.
+Il sistema che abbiamo montato qui, c'è pure una telecamera a basso raggio, ma alta precisione,
+
+Il sistema di inseguimento ha 3 PCB (3 schede), la prima analogica, che conta solo l'intensità luminosa.
+La conversione fra analogico a digitale verrà fatta dalla seconda scheda, la principale, la quale converte
+nel microprocessore i valori in formato digitale per farci calcoli
+RTTC -> real time timer calendario -> periferica che indica la data e ora
+
+Le periferiche del computer non sono slave, come gli studenti, alza la mano/chiede un interruzione che viene vista dal
+microprocessore come un intervento da parte della periferica.
+ModBus non prevede interrupt, interventi. La periferica risponde solo se chiedo.
+La terza scheda è quella che trasla le comunicazioni con l'esterno, allinterno della quale i circuiti logici 01 vengono
+convertiti in TTL (0V o 5V) oppure, come nel nostro caso, RS-485, ovvero un differenziale.
+Un sistema di comunicazione differenziale permette di avere meno possibilità di errore, infatti i disturbi si riflettono 
+su entrambi i pin (A e B).
+
+Il microprocessore che utilizziamo è un Microchip "MPLAB X IDE" compilato in linguaggio C
+Quando ho un processore ci serve una scatola nera, che ogni X tempo faccia un log dei dati e degli errori.
+Nel nostro caso abbiamo 3 giorni di possibili log.
+
+La scheda analogica è composta da 3 diodi Up-Down-Est-Ovest, la telecamera al centro è semplicemente un rilevatore di luce
+che permette di tracciare la posizione della sorgente luminosa.
+La programmazione che useremo è la programmazione a stati finiti, un automa che dice:
+"A seconda dello stato in cui mi trovo, devo fare tal azione."
+Nel nostro caso ci sono 3 stati: sole, nuvoloso e buoio, ma ci sono anche degli stati di movimento.
+
+//SECONDA ORA
+Il sistema di monitoraggio da remoto:
+dallo slave al pc, con teamviewer a qualsiasi PC
+
+Configurazione della memoria:
+La memoria interna è suddivisa in pagine, ogni pagina è una scheda con 32 righe; ognuna ha un significato.
+La pagina 0 non è una vera e propria pagina, bensì quella istantanea.
+Ogni pagina viene salvata ad un evento "saliente" e abbiamo 254 pagine disponibili (1-254)
+Normalmente le pagine non vengono quasi mai richieste, poiché appare nel mio database delle richieste temporizzate.
+
+Il monitoraggio del sistema:
+ogni software è leggermente diverso per addattarlo alle esigenze.
+*analisi della tabella commentata*

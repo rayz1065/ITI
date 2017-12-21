@@ -1,0 +1,143 @@
+- 20.12.2017 -
+Donato Vincenzi
+Università di Ferrara
+
+Energie alternative: le prospettive del Fotovoltaico.
+Silicio, molto comune
+fino al 1945 poco usato,
+purificicazione dell'uranio, provare sul silicio
+Resistività relativamente alta (8 ordini maggiore del rame)
+silicio pure grandi capacità:
+per purificare (come il ferro) si parte da un ossido
+reagire con del carbonio ad alte temperature
+molto impuro, processo C -> con acido cloridrico
+(MEMC Merano uno dei primi luoghi)
+Tricloruro di silicio (tossico)
+dopo distallazione 200-400° frazionata, si ottiene tricloruro puro
+solidificare con hidrogeno a 1200°
+solido, all'interno del quale tutti gli atomi sono disposti in modo rettilineo -> cristallino
+Processo Czocharalski, in questo policristallino.
+in mezzo un cristallo e intorno  gli altri
+partendo da un cristallo si ricavano dei wafer, i quali sono alla base dell'elettronica attuale.
+2009 -> troppi pannelli fotovoltaici, maggiore richiesta, maggior prezzo
+display a cristalli liquidi richiede l'indio -> dopo utilizzato ossido di zinco
+il silicio è un problema di scopo industriale.
+Cinesi investono sulle celle solari e ormai hanno il monopolio.
+
+La potenza/capacità produttiva di una centrale nucleari 1GW, casa 3,3kW
+In cina si produce in 1 anno 18GW fotovoltaici
+Sopra al vetro si pone un conduttore trasparente, un semi conduttore (silicio), metallo
+Relativamente semplice fare un pannello, ma lentamente
+
+Alternativa è fotovoltaico costruttore
+Il progetto originale è di un ingegnere di Bolzano,
+Specchi parabolici verso un pannello sicongolo con celle ad alta qualità (materiali migliori del silicio)
+solo il 30% dell'energia viene convertito.
+necessario raffreddamento, necessario spostare la cella fotovoltaica
+Struttura adatta a climi adatti ai climi caldi
+a seconda dela temperatura il silicio perde efficienza
+Installazione di 110 di questi pannelli in Calabria.
+
+Per inseguire il sole serve una struttura che si possa muovere, facendo salire il costo.
+nel 2012 viene l'idea di sfruttare quesi concentratori
+sviluppato al progetto solar decatlon
+utile anche per ricaricare biciclette elettriche
+Start up -> nuova azienda
+Spin off -> collaborazioni (mai con università)
+
+Un'altra idea è utilizzare lo stesso concetto di fibra ottica, la luce viene intrappolata all'interno della lastra
+e riconduce ai lati la luce. solar decathlon 2014 nuova casa ad emissione 0
+----
+Software fra PC e PANNELLO SOLARE
+Il software per l'inseguimento è programmato per creare un database e rispondere alle richieste.
+La radiazione più energetica è quella con ampiezza d'onda minore.
+Il silicio è un occhio un po' particolare:
+-> unità di misura fotometrica (LUX o LUMEN) non correlati con i WATT della luce
+Il silicio misura la quantità di fotoni gli arrivano.
+da 400nm a 100nm, sopra a 1nm non sono abbastanza energetici per creare la conversione
+Il silicio è grigio, ma con una fotocamera ad infrarossi pare invisibile.
+*disegno "vasca da bagno"*
+in una matrice di atomi di silicio, posso aggiungere un atomo di fosforo/boro, il suo elettrone può spostarsi nella matrice
+liberamente, aumentandone la confucibilità
+
+Come del'inchiostro nell'acqua, possiamo notare che si diffonde piano piano dal punto più concentrato, a quello meno.
+La diffusione è molto lenta. Assomiglia molto ad un condensatore, con una zona centrale con un campo elettrico.
+Un campo auto-generante.
+Tutti fanno effetto fotoelettrico, ma solo fra giunzione fra meteriali di tipo n e di tipo p è possibile
+dividere gli eletroni.
+Una batteria un po' strana:
+per avere un potenziale migliore devo trovare un giusto compromesso fra V e I
+l'obiettivo dell'inverter è ...
+A seconda dell'intesità solare non cambia solo I, ma anche V
+---
+Protocollo di comunicazione Bodbus
+Tutti grossi impianti che richedevano una discreta sicurezza utilizzavano questo protocollo
+(sia wireless, wire, optic) 
+Per descrivere i protocolli usiamo carrozze dei treni
+ttl -> 0V 0 -> 5V 1
+Differenziali (USB), 2 livelli logici non ben definiti, quando A<B 1, altrimenti 0
+Con i differenziali è meglio perché è immune ai disturbi.
+Ethernet è un altro protocollo
+RS232 forma di 9v, forma di VGA
+
+Il protocollo che useremo noi è 485 è differenziale
+Le specifiche dell' RS-485 le vedremo poi
+Per "avvolgere il contenuto", tipo nella frase "Kevin, come stai?", questo "Kevin," è l'involucro
+Solitamente è inizializzato da un header oppure abbiamo un carattere di inizializzazione
+per chiudere ci serve un checksum o chek error
+
+un esempio è dopo "1234" si restituisce "10", il pc controlla 
+
+-> USB:
+entrata
+Enumerazione, ti chiamo 32, quando ti dico 32 devi rispodere te.
+Tutto quello che dico devi verificare che quello che ho detto e rispondi.
+I protocolli di comunicazione usano base esadecimale.
+con dieci dita, quanti numeri puoi contare? 1024
+con 16 bit posso dire numeri da -32767 a 32766, con una codifica posso interpretare il dato inviato
+
+Protocollo Modbus RTU -> più economico
+Modbus ASCII -> più corto
+RTU si usa su linee di comunicazioni lunghe
+Il limite di comunicazione dell'ethernet è 60m, poi devo andare di fibra ottica o parlare lentamente.
+
+Modbus serviva a controllare centrali nucleari.
+COIL -> avvolgimento per settare un coil uso una funzione chiamata 1
+1xxxxxxx
+0/1
+bool
+L'accellerometro misura sempre l'attuale valore, il processore chiede nei registri gli attuali valori.
+Ci sono 2 tipi di registri: scrivibili o solo leggibili.
+Un esempio è scrivere l'ora su un registro della macchina
+
+Una cosa simile è quello che facciamo costantemente con il pannello solare.
+Dopo proveremo ad interrogare il registro.
+Master -> risponde se interrogato
+Slave -> risponde se chiamato dal master
+Esistono altri protocolli dove io posso avee un master multiplo.
+Su skype io posso essere sia master che slave.
+
+Supponete che abbiamo un sistema fatto così:
+Io ho una centralina eolica con un anemometro 
+abbiamo una centralina che comanda con l'anemometro di ruotare la pala eolica.
+Se ti faccio parlare come master da casa tua, io non posso essere io master,
+quindi io centralina divento sia master che slave, master se parlo con l'anemometro (slave)
+e slave se devo ascoltare il master.
+
+Il sistema che useremo è che io, pc da casa chiedo alla centralina la potenza del sistema, che a sua volta
+interrogherà gli slave e mi risponderà
+
+Noi abbiamo 8 bit di slave -> 256, ma 0 o 256 viene usato per tutti, ma nessuno risponde
+noi utilizzeremo da 1 a 247.
+Il master non ha un indirizzo, uno slave parla solo con il master.
+
+Noi non abbiamo coil.
+Come faccio a dire di scrivere ad un coil e non ad uno slave?
+
+Address 	Function 	Data 	CRC
+| 			|			||		|
+			03->leggi
+			
+PRATICA
+01			03			006B-0003	****	//CPU
+01			03		06	
