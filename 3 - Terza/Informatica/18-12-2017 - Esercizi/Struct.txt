@@ -1,0 +1,5 @@
+Struct nome {
+	tipo nome;
+	tipo cognome;
+	tipo età;
+	}
