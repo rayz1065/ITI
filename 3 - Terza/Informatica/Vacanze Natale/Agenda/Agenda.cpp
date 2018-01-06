@@ -121,7 +121,7 @@ bool bisestile(unsigned short aaaa){
 }
 bool date_validator(unsigned short anno, unsigned short mese, unsigned short giorno){
 	unsigned short mesi[]={31,28,31,30,31,30,31,31,30,31,30,31};
-	if (mese>12)
+	if (mese==0||giorno==0||mese>12)
 		return false;
 	if (bisestile(anno)&&mese==2)
 		mesi[1]++;
