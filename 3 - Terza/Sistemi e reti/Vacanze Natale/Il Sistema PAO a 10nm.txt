@@ -1,0 +1,94 @@
+Fonti:
+https://hardware.hdblog.it/2017/10/30/Intel-cannon-lake-10nm-fine-2017/
+https://hardware.hdblog.it/2017/12/28/intel-Ice-Lake-Wiskey-Lake/
+https://www.tweaktown.com/news/49816/intel-teases-ice-lake-tiger-family-10nm-2018-2019/index.html
+https://www.fool.com/investing/general/2016/01/18/what-is-the-name-of-intels-third-10-nanometer-chip.aspx
+https://youtu.be/s0O3MxolJ7s
+https://youtu.be/n04Dg69wP1U
+https://youtu.be/AzDMZ_PulS0
+https://youtu.be/Pe4KNjDShLw
+https://wccftech.com/intel-developing-new-x86-uarch-succeed-core-generation/
+
+Cannon Lake primo processore intel costruito con processo produttivo a 10nm
+Ice Lake primo processore intel costruito con processo produttivo a 10nm+
+
+Sesta generazione (2015) -> dodicesima totale
+SkyLake, modifica microarchitettura
+14nm
+I7-6700K
+4C HT -> sembra 8C
+4GHZ -> 4.2GHZ Turboboost
+GPU simile alle precedenti
+91 Watt, superiore ai precedenti
+Soket e chipset nuovi
+fino a 16 line PCIE
+
+Processore-chipset più veloce: DMI 3.0
+Raddoppia la velocità di trasferimento dati frai 2
+CPU senza regolatore di tensione interna
+Il nuovo Chipset ha la possibilità di avere più connessioni
+
+OVERLCLOCK-> possibile controllare i singoli bus,
+pezzi non dipendenti
+
+Settima generazione (2016)
+Kaby Lake 
+Rottura della strategia attuale (TICK-TOCK)
+Nuova architettura
+
+->TICK-TOCK & PAO
+2 fasi, 2 anni gestiti in questo modo:
+nel primo avvia un nuovo processo produttivo,
+nella seconda rilascia una microarchitettura.
+Ormai non è più valida,
+ora bisogna ottimizzare quella attuale composta da 3 fasi:
+si aggiunge la fase di ottimizzazione
+Il cambiamento era necessario, perché è più difficile
+implementare ulterioremente, rallendando il mercato.
+
+Kabylake è una ottimizzazione di skylake
+sempre a 14nm, ma ottimizzata in modo da aumentare la velocità del clock di quasi 300MHZ nella versione standard
+pipeline non è cambiata, ma processori più reattivi
+media engine, unità progettata per leggere più facilmente
+i media in 4k e i media stessi
+implementa un modo molto più facile per eseguire più azioni
+sugli stessi pacchetti grafici. permettendo per esempio di 
+giocare e streammare contemporaneamente utilizzando meno della metà delle istruzioni.
+Migliorati notevolmente i portatili, poiché il consumo è stato drasticamente ridotto.
+
+Ottava Generazione (2017)
+Le nuove architetture protagonista sono
+Kabylake-Refresh, Coffe lake e cannon lake
+le prime due in 14nm migliorato, mentre la terza a 10nm
+di cui non si hanno ancora nessun esemplare sul mercato
+
+Si punta su raddoppiare i core e i thred, ma in realtà
+solo pochi processori sanno sfruttare al meglio questo numero di core.
+Effettivamente con i kabylake-r si incrementarono core, frequenza e cache, ma senza grandi innovazioni.
+Al rilascio di questa ottava generazione Intel afferma
+di basare la nuova generazione sulle tre architetture.
+
+Con architettura Kabylake-R vengono così rilasciati solamente 4 processori (8650U,8550U,8350U,8250U), mentre con microarchitettura Coffee Lake 6 (8700K,8700,8600K,8400,8350K,8100), di cui gli I3 sono senza turboboost, ma con un clock di partenza maggiore.
+
+Per la cannon lake abbiamo ancora poche informazioni, doveva essere rilasciata nel 2016, ma ancora nel 2018 non si è vista sul mercato.
+
+
+Nona generazione (2018)
+Poche informazioni e non sempre affidabili, ma sappiamo già che Intel sta lavorando su un'architettura 10nm migliorata con nome "ice lake", ma ci sono già pettegolezzi riguardo alla terza generazione dei chip a 10nm, la "tyger lake", prevista per la seconda metà del 2019.
+Intel, dicono i pettegolezzi, abbia già investito per un'architettura a 7nm, ma ancora non si hanno notizie certe.
+
+
+Meltdown e Spectre
+affligge tutti i processori del decennio
+Meltdown solo intel
+
+Spectre inganna altre applicazioni
+programmi basilari -> leggere il kernel
+riscerivere il Kernel
+
+si basa sulle operazioni speculative e agisce sulla cache
+petch di sicurezza
+Bug, ma non exploti
+Google Project Zero
+
+90% dei processori protetti entro metà gennaio 2018
