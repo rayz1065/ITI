@@ -1,0 +1,79 @@
+Interfaccia grafica dinamica
+analisi giornaliera-mensile-annua
+
+Altezza del sole sull'orizzonte 
+Produzione
+
+Giornaliera dati ogni 30 secondi
+Mensili ogni giorno (media, scartando la notte)
+Annuale ogni mese (media)
+
+---
+
+BIO FISSAZIONE:
+Bio-olio partendo dalla co2
+Pannelli solari e fibrem in "fotobiorettori" 
+controllo microalghe
+
+Eni investe in questo campo, al fine di produrre energia in un modo alternativo
+Un barile di petrolio 3 dollari, costa pochissimo.
+
+Estrarre petrolio, estrarre anche co2. Immette tante sostanze che modificano equilibrio della natura.
+Bruciare biocombustibili è inquinante come il petrolio.
+
+Si investe in questo progetto, ciclo breve -> piante trasformano più velocemente.
+Maggior equilibrio per la CO2.
+
+La fotosintesi ha efficienza del 5%,
+Non è il miglior processo, sole ci manda > colore verde, la pianta la evita.
+Come mai proprio questa alga e non altro (colza, palma)?
+Palma impiega molto tempo a crescere e cresce solo nelle zone calde.
+
+OPEN PONS -> zone si fanno crescere le alght -> sempre in movimento.
+Non riesce ad arrivare a grandi concentrazioni,
+PHOTOBIOREACTORS -> zone interne
+
+Per spostare le alghe è difficile.
+diffusore di lice al fine di uniformarla.
+100 lenti di fresnel 27x27cm 
+
+---
+
+Solare -> conversione diretta -> meno perdite di efficienza
+PMMA (pexiglass) con materiali fluorescenti all'inteno
+
+indice di rifrazione
+aria n~=1 PMMA n~=1.48
+n1sina=n2sinb
+
+PMMA -> a 43° circa, angolo di rigrazione parallelo alla superficie
+
+Fluorescenza <> fosforescenza
+Il tempo di vita delle molecole eccitate
+Fluorescenza -> nanosecondi
+Fosforescenza -> secondi
+
+Neon è fluorescente, tanto tempo per accendersi, poi resta verde quando si spegne (per qualche secondo)
+
+25% della luce resta all'interno, 75% arriverà al bordo.
+
+---
+
+Accumulatore di ioni di litio
+Anodo con il germano. Anodo -> polo negativo
+Attualmente il - è di grafite
+
+Capacità grafite 372
+Capacità germano ~1300
+
+4 volte la capacità
+Da solo germanio si espande troppo
+
+C inCIde molto -> strutture che lavorano ad alte correnti 
+2500 ricariche a discapito delle 800 circa di quelle a grafite
+
+
+
+COSE DEL GIORNO:
+-OLIO DI PALMA NON FA MALE
+-UCCIDERE LE BALENE SALVA TANTISSIME MICROALGHE
