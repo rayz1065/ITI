@@ -1,0 +1,10 @@
+quadrato inscritto in un cerchio di raggio √2.
+cosα-√2/2=2sinα
+cos²α+sin²α=1
+
+cos²α+((cosα-√2/2)/2)²=1
+cos²α+(cosα/2-√2/4)²=1
+cos²α+cos²α/4-cosα*√2/4+1/16=1
+(5/4)cos²α-(√2/4)cosα-15/16=0
+
+Boh!

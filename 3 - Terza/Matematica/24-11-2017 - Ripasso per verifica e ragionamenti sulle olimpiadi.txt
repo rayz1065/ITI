@@ -1,0 +1,25 @@
+sinx=1/2
+x1=30°+k360°
+x2=150°+k360°
+
+cosx=√3/2
+x1=30°+k360°
+x2=-30°+k360°
+
+tanx=1
+x=45°+k180°
+
+---
+quadrato inscritto in un cerchio di raggio 1.
+cosα-√2/2=2sinα
+cos²α+sin²α=1
+
+cos²α+((cosα-√2/2)/2)²=1
+cos²α+(cosα/2-√2/4)²=1
+cos²α+cos²α/4-cosα*√2/4+2/16=1
+cos²α+cos²α/4-√2cosα/4-7/8=0
+(5/4)cos²α-(√2/4)cosα-7/8=0
+
+0.14 (in teoria)
+
+

@@ -1,0 +1,27 @@
+Spiegazione della mappa di karnaugh
+~   ¬	1	 not (negation)	
+ 	∧	2	 and (conjunction)
+|	|	2	 NAND (not and)
++	∨	3	 or (disjunction)
+-	↓	3	 NOR (not or)
+#	⊕	3	 XOR (exclusive or)
+>	→	4	 if (implication)
+=	↔	5	 if and only if (biconditional)
+
+Z=~((A|B)#~C)
+
+A	B	C	Z
+0	0	0	1
+0	0	1	0
+0	1	0	1
+0	1	1	0
+1	0	0	1
+1	0	1	0
+1	1	0	0
+1	1	1	1
+
+C\AB	00	01	11	10
+0		1	1	0	1
+1		0	0	1	0
+
+Z=(~A~B)+(ABC)+(~B~C)

@@ -1,0 +1,11 @@
+Microcap evaluation 11
+
+Sbagliato il template della relazione
+
+---
+
+Risoluzione nodi e maglie
+
+V1=10V
+R2=1kΩ
+R7=1kΩ R4=1kΩ
