@@ -1,0 +1,38 @@
+Ragionamenti sulle olimpiadi
+
+EQUAZIONI GONIOMETRICHE ELEMENTArI:
+3sinx+1=2sinx
+3sinx-2sinx=-1
+sinx=-1
+x=3π/2+2kπ
+
+2sin(x/3)+√3=0
+sin(x/3)=-(√3/2)
+x/3=90°±150°+k360°
+x=270±450°+k180°
+
+2sin(π/3)*cosx-cos(π/6)=tanπ
+√3cosx-√3/2=0
+cosx=1/2
+x₁=π/3+2kπ
+x₂=-π/3+2kπ
+
+2cosx-2cos45°=2(√2sin60°-cosx)
+2cosx-√2=2(√2+√3/2-cosx)
+2cos-√2=√6-2cosx
+4cosx=√6+√2
+cosx=(√6+√2)/4
+x=±15°+k360°
+
+FORMULE DI ADDIZIONE
+cos15°=?
+cos(α±β)=cosαcosβ±sinαsinβ
+sin(α±β)=sinαcosβ±cosαsinβ
+
+FORMULE DI DUPLICAZIONE
+sen2α=2senαcosα
+cos2α=cos²α-sin²α
+
+?=cos(60°-45°)
+cos60°cos45°+sin60°+sin45°
+1/2*√2/2+√3/2*√2/2

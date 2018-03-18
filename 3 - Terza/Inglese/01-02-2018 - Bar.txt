@@ -1,0 +1,34 @@
+// ITA
+Riutilizzare è ormai una parola che va di moda.
+un modo per riutilizzare le arugginite cabine telefoniche rosse, disegnate da Sir Giles Gilbert Scott nel 194 e ora comosciute come "miglior design britannico di tutti i tempi", è quello di trasformarle in un bar.
+C'è solo un barista e nessun posto dove sedere.
+Jake Hollier prepara tutti i tipi di caffè, cioccolate calde, maffin e roll sausage.
+Coffee box è diventato il bar più piccolo della città, ma con il caffè migliore di Birminghan.
+Un altro esempio: Una vecchia cabina telefonica rossa che diventa libreria, è l'idea geniale venuta agli abitanti di una piccola cittadina inglese.
+La nuova libreria si trova nel pressi di Lichfield è stata dotata di scaffali per i libri, che sono donati dai cittadini. Finora non ci sono mai stati problemi: tutto funziona in modo correttamente. Gli abitanti si scambiano cultura e tutti rispettano l’iniziativa senza danneggiarla. Ora la libreria è un'attrazione turistica.
+
+// ING (No Aiuti)
+Reuse has now become a word that is fashionable.
+A way to reuse the rusty red telephone box - designed by Sir Giles Gilbert Scott in 1924, knew as the "Greatest British Design of All Time" - is to commute it into coffee shop.
+There is only a barista and nowhere to sit.
+Jake Hollier sells all kind of coffee, hot chocolate, muffins and sausage rolls.
+The Coffee Box is the smallest coffee shop in the city, but it has the best coffee in Birminghan.
+An other example:
+An old red telephone box has become a library. This was the brillant idea from the inhabitants of a small british city.
+The new library is near Lichfield has been equipped with shelves for the books donated by the inhabitants.
+Until now there have never been problems: everything works properly.
+The inhabitants exchange their culture and everyone respect the initiative without damaging it.
+Now the library is a tourist attraction.
+
+// ING (Aiuti)
+Reuse has now become a word that is fashionable.
+A way to reuse the rusty red telephone box - designed by Sir Giles Gilbert Scott in 1924, knew as the "Greatest British Design of All Time" - is to commute it into a coffee shop.
+There is only a barista and nowhere to sit.
+Jake Hollier sells all kind of coffee, hot chocolate, muffins and sausage rolls.
+The Coffee Box is the smallest coffee shop in the city, but it has the best coffee in Birmingham.
+Another example:
+An old red telephone box has become a library. This was the brilliant idea from the inhabitants of a small British city.
+The new library is near Lichfield has been equipped with shelves for the books donated by the inhabitants.
+Until now there have never been problems: everything works properly.
+The inhabitants exchange their culture and everyone respect the initiative without damaging it.
+Now the library is a tourist attraction.
