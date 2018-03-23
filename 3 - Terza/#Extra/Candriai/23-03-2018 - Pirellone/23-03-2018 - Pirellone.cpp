@@ -15,7 +15,7 @@ void cambiacolonna(bool table[][100],int n_colonna, int r){
 
 int main(){
     bool table[100][100];
-    int r,c,temp;
+    int r,c;
     ifstream fin;
     fin.open("input.txt");
     fin>>r;
@@ -49,9 +49,11 @@ int main(){
         for (int j=1;j<c;j++){
             if (table[i][c]) {
                 fout<<endl<<"IMPOSSIBILE";
+                fout.close();
                 return 0;
             }
         }
     }
+    fout.close();
     return 0;
 }
