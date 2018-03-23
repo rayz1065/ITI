@@ -1,0 +1,14 @@
+In un campo un omino deve raggiungere casa sua evitando le mine, può andare solo in basso o a destra.
+
+I...*
+..*..
+,,,,,
+,*..@
+
+I111*
+12*11
+13345
+1*37@
+
+I=1
+@=12
