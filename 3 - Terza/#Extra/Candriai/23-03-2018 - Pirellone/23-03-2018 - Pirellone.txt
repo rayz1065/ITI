@@ -1,0 +1,47 @@
+Problema 
+in input.txt
+descrizione del pirellone
+tante finestrelle degli uffici che la sera alcune sono accese, altre spente.
+
+
+input.txt:
+3 4
+1 1 0 1
+0 0 1 0
+1 1 0 1
+
+Il custode deve spegnere tutte le luci spegnendo interruttori di riga, di colonna i quali invertono i vaori delle luci
+
+c3
+1 1 1 1
+0 0 0 0
+1 1 1 1
+
+r1
+0 0 0 0 
+0 0 0 0 
+1 1 1 1
+
+r3
+0 0 0 0
+0 0 0 0
+0 0 0 0
+
+output:
+c3
+r1
+r3
+
+
+np
+facile verificare, algoritmo polinomiale
+
+
+output.txt
+101 //righe cambiate
+0010 //colonne cambiate
+
+
+il pirellone non è risolvibile se contiene la 2x2 impossibile
+1 0
+0 0
