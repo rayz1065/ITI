@@ -1,16 +1,19 @@
 #include <iostream>
 #include <cassert>
 #include <fstream>
+#include <vector>
 using namespace std;
 
-const int MAXMN=20000;
-bool M[MAXMN][MAXMN];
-bool visti[MAXMN];
+vector<vector<int> > G;
+bool visti[20000];
 int N,A,start,isole;
 
 void visita (int v){
     visti[v]=true;
-    for (int i=0;i<N;i++) if (M[v][i]&&!visti[i]) visita(i);
+    for (int i=0;i<G[v].size();i++) {
+        int vic=G[v][i];
+        if (!visti[vic]) visita(vic);
+    }
 }
 
 int main(){
@@ -18,11 +21,12 @@ int main(){
     in.open("input.txt");
     assert (in);
     in>>N>>A;
+    G.resize(N);
     for (int i=0;i<A;i++) {
         int a,b;
         in>>a>>b;
-        M[a][b]=true;
-        M[b][a]=true;
+        G[a].push_back(b);
+        G[b].push_back(a);
     }
     in.close();
     for (int i=0;i<N;i++) {

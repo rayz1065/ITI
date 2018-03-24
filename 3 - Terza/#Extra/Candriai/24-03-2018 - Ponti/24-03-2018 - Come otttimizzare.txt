@@ -1,0 +1,38 @@
+						memoria	coppia	lista archi
+matrice 				n²		O(1)	O(n²)
+lista di adiacenza		n 		O(n)	O(n)
+	-> 	0 	15
+		1	05
+		2	34
+		3	24
+		4	32
+		5	016
+		6	6
+Ci serve una lista a cui possiamo aggiungere nodi e che possiamo leggerla facilmente
+C++ è vector
+Java rlist
+
+vector<int> v
+vector<bool> v //usa un bit e non un byte per valore
+vector<vector<int>> v
+
+supponiamo di avere un vettore di interi,
+v.push_back(39); //mette 39 alla fine del vettore
+v.size(); //elementi nel vettore
+v[2]; //secondo elemento del vettore
+
+for (int i=0;i<v.size();v++) cout<<v[i]<<endl;
+
+...
+vector<vector<int> >G; //spazio fra >>
+in>>N>>A;
+G.resize(n);
+
+quando si passa in una funzione un vector, ne fa una copia.
+passatelo per riferimento.
+
+---
+vector<vector>bool>>G;
+G=vector<vector<bool>>(n,vector<bool>(n,false));
+
+
