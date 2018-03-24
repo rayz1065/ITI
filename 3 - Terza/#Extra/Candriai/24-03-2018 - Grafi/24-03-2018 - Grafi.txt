@@ -1,0 +1,69 @@
+1700-1800
+Città in russia che ha 7 ponti
+passeggiata che passa tutti i ponti una volta sola?
+No, Eulero inizia a fare teoria dei grafi.
+Trasformare i punti in grafo
+4 nodi e 7 archi che li collegano
+http://images.treccani.it/enc/media/share/images/orig/system/galleries/NPT/VOL_4/IMMAGINI/grafo_01.jpg
+Tantissime cose usano i grafi;
+
+-Grigi
+-Nord aggiunge arancio per poter viaggiare ovunque
+-Sud aggiunge verde per poter lui viaggiare ovunque e impedirlo a nord
+-Est aggiunge rosso per far smettere i litigi
+
+Ogni node ha un numero pari di archi e quindi si torna al punto di partenza
+NCSCEN -> ogni punto ha pari archi
+
+Possibile fare un percorso fra 2 nodi solo se il primo e l'ultimo ha una numero dispari di archi.
+
+---
+Algoritmo per risolvere grafi
+Grafo senza cilci, 7 nodi, 6 collegamenti
+
+Di solito in informatica (arancione)
+7 //nodi
+7 //archi
+6 //partenza
+0 1
+1 5
+5 0
+5 6
+2 3
+3 4
+4 2
+
+matrice bool nn
+
+  0 1 2 3 4 5 6
+0 -	T - - - T -
+1 T - - - -	T -
+2 - - - T T - -	  
+3 - - T - T - -
+4 - - T T - - -
+5 T T - - - - T
+6 - - - - - T -
+
+Quanti archi, partendo da sei, posso trovare (componente connessa)?
+
+visita(v)
+	cout<<"sono in "<<v;
+	for (int i=0;i<n-1;i++){
+		if (a[v][i]) visita(i);
+	}
+	
+siccome grafo senza direzione (grafo non orientato), si entra molto facilmente in loop.
+memorizzare i nodi già visitati, al fine di non 
+
+visita(v)
+	visto[v]=true;
+	cout<<"sono in "<<v;
+	for (int i=0;i<n-1;i++){
+		if (a[v][i]&&visto[i]==false) visita(i);
+	}
+
+visità in profondità
+
+---
+
+Tecla era su un nodo della ragnatela, ogni volta che tecla passa da un arco della ragnatela cambia appetito, trovare il percorso per farlo tornare al nodo di partenza affamato.
