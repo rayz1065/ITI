@@ -1,0 +1,29 @@
+bagno lungo e stretto e vogliamo piastrellarlo con piastrelle da 1 o 2
+il bagno da 3,:
+
+1 1 1
+1 2
+2 1
+
+tre possibili modi per piastrelare
+
+proporzione divina
+
+[O][O][O][O]
+[O][O][OOOO]
+[O][OOOO][O]
+[OOOO][O][O]
+[OOOO][OOOO]
+
+0
+3
+6
+12
+15
+24
+27
+30
+
+http://oeis.org/A277335
+
+ricorsione con memorizzazione

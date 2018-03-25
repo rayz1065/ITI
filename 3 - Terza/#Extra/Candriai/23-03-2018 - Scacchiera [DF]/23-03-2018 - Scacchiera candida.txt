@@ -1,0 +1,12 @@
+in una tabella 2^k*2^k
+usando pezzi a L;
+
+
+---
+Torre di anoi
+
+
+---
+2^k celle
+Harry ha un sacchetto di fagioli magici, enumerati da 1 a n,
+può scegliere se andare a destra o a sinistra al fine di visitarle tutte
