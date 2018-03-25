@@ -1,0 +1,5 @@
+schacchiera MxN
+
+data una configurazione, possiamo scartare a priori lo spazio disponibile
+ora proviamo con una ricorsione
+matrice di interi

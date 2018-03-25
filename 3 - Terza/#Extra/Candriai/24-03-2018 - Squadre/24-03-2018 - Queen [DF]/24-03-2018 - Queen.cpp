@@ -13,14 +13,15 @@ int M,N,Q,minore;
 
 
 
-/*void filtra(int x,int y){
-     mappa[x][y]=0
+void filtra(int x,int y){
+     mappa[x][y]=0;
      for (int i=0;i<M;i++) mappa[i][y]=0;
      for (int i=0;i<N;i++) mappa[x][i]=0;
-     if (M<N) for (int i=x-y;i<M;i++) mappa[i][i]=0;
-     else for (int i=x-y;i<N;i++) mappa[i][i]=0;
-}*/
-void escludi(int x, int y) {
+     for (int i=0;i<min(M,N);i++) if (x-y>=0) mappa[x-y][i]=0;
+     for (int i=x-y;i<min(M,N);i++) if (i>=0) mappa[i][i]=0;
+
+}
+/*void escludi(int x, int y) {
 	for (int j = 0; j < n; j++) {
 		mappa[x][j] = false;
 	}
@@ -47,9 +48,9 @@ void test(){
         for (int i=n-1;i>0;i--) if (tenta(i)) possibili++;
     }} while (!trovato);
 }
-
+*/
 main(){
-    ifstream in;
+    /*ifstream in;
 	in.open("input.txt");
 	assert(in);
 	in>>M>>N>>Q;
@@ -74,6 +75,6 @@ main(){
     out.open("output.txt");
     assert(out);
 	out << n_queen;
-	out.close();
+	out.close();*/
 	return 0;
 }
