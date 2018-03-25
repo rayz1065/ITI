@@ -1,0 +1,99 @@
+enum lato{SOPRA=0,DESTRA,SOTTO,SINISTRA};
+
+struct foro_t{
+	lato parete;
+	int posizione;
+};
+
+struct location{
+	int riga;
+	int colonna;
+	lato direzione;
+};
+
+unsigned int Sr[250000], Sc[250000]; // Specchio riga, Specchio colonna
+bool Sd[250000]; // Speccio diagonale
+int R, C; // Righe, Colonne,
+
+void inizia(int N, int M){
+	for (int i=0;i<250000;i++){ // Inizializza gli specchi
+		Sr[i]=0;
+	}
+	R=N;
+	C=M;
+}
+
+void aggiungi(int r,int c,char diagonale){
+	for (int i=0;i<250000;i++){ // Per ogni elemento della lista degli specchi
+		if (Sr[i]==0){ // Se è vuoto aggiungilo
+			Sr[i]=r+1; 
+			Sc[i]=c+1;
+			if (diagonale=='/') Sd[i]=0; // /=0
+			if (diagonale=='\\') Sd[i]=1; // \=1
+			break;
+		}
+	}
+}
+
+foro_t calcola(foro_t ingresso){
+	location locazione; // locazione è la posizione attuale del laser
+	
+	locazione.direzione=ingresso.parete; // Inizializza la direzione e la posizione
+	if (ingresso.parete==SOPRA) {
+		locazione.riga=0;
+		locazione.colonna=ingresso.posizione+1;
+	} else if (ingresso.parete==DESTRA) {
+		locazione.riga=ingresso.posizione+1;
+		locazione.colonna=C+1;
+	} else if (ingresso.parete==SOTTO) {
+		locazione.riga=R+1;
+		locazione.colonna=ingresso.posizione+1;	
+	} else {
+		locazione.riga=ingresso.posizione+1;
+		locazione.colonna=0;
+	}
+	
+	do { // Fino a quando il raggio non esce
+
+		if (locazione.direzione==SOPRA) locazione.riga++;
+		else if (locazione.direzione==DESTRA) locazione.colonna--;
+		else if (locazione.direzione==SOTTO) locazione.riga--;
+		else locazione.colonna++;
+		if ((locazione.riga>0&&locazione.riga<=R)&&(locazione.colonna>0&&locazione.colonna<=C)) {
+			for (int i=0;i<250000;i++){ // Per ogni specchio
+			    if (Sr[i]==0) break;
+				if ((int)Sr[i]==locazione.riga&&(int)Sc[i]==locazione.colonna) { // Cambia la direzione se il raggio si trova in quel punto
+					if (locazione.direzione==SOPRA) {
+						if (Sd[i]==1) locazione.direzione=SINISTRA;
+						else locazione.direzione=DESTRA;
+					} else if (locazione.direzione==DESTRA) {
+						if (Sd[i]==0) locazione.direzione=SOPRA;
+						else locazione.direzione=SOTTO;
+					} else if (locazione.direzione==SOTTO) {
+						if (Sd[i]==0) locazione.direzione=SINISTRA;
+						else locazione.direzione=DESTRA;
+					} else {
+						if (Sd[i]==1) locazione.direzione=SOPRA;
+						else locazione.direzione=SOTTO;
+					}
+				}
+			}
+		}
+	} while ((locazione.riga>0&&locazione.riga<=R)&&(locazione.colonna>0&&locazione.colonna<=C));
+
+	if (locazione.riga==0) {
+		ingresso.parete=SOPRA;
+		ingresso.posizione=locazione.colonna-1;
+	} else if (locazione.riga>R) {
+		ingresso.parete=SOTTO;
+		ingresso.posizione=locazione.colonna-1;
+	} else if (locazione.colonna==0) {
+		ingresso.parete=SINISTRA;
+		ingresso.posizione=locazione.riga-1;
+	} else {
+		ingresso.parete=DESTRA;
+		ingresso.posizione=locazione.riga-1;
+	}
+	
+	return ingresso;
+}

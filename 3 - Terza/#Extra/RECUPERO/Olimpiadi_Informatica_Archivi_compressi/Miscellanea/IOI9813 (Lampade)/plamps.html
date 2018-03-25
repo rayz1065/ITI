@@ -1,0 +1,108 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"> 
+<HTML>
+	<HEAD>
+	 	<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+		<TITLE>IOI '98: Lampade</TITLE>
+	</HEAD>
+	
+	<BODY>
+	<H1>Lampade (<SAMP>lamp</SAMP>)</H1>
+	
+	<P>Per illuminare il salone delle IOI '98 si hanno a disposizione un set di
+	<VAR>N</VAR> lampade colorate e numerate da 1 a <VAR>N</VAR>. Le lampade
+	sono connesse a 4 pulsanti:</P>
+
+	<ul> 
+	<li>Pulsante 1: quando viene premuto tutte le lampade cambiano il loro
+	stato; quelle spente si accendono e quelle che sono accese si spengono.
+	<li> Pulsante 2: cambia lo stato delle lampade che hanno numero dispari.
+	<li> Pulsante 3: cambia lo stato delle lampade che hanno numero pari.
+	<li> Pulsante 4: cambia lo stato delle lampade che hanno numero nella
+	forma <VAR>3k+1</VAR> con <VAR>0</VAR>&lt;=<VAR>K</VAR>, quindi 1, 4, 7,... .
+	</ul>
+
+
+	C'&egrave; un contatore <VAR>C</VAR> che registra il numero
+	totali di pressioni di bottoni. Quando la festa comincia tutte
+	le lampade sono accese e il contatore <VAR>C</VAR> ha valore zero.
+
+	<P>Vi viene fornito il valore del contatore <VAR>C</VAR> e
+	varie informazioni sullo stato finale di alcune lampade. Si
+	richiede  di scrivere un programma che determini tutte le
+	possibili configurazioni finali delle <VAR>N</VAR> lampade
+	in accordo con le informazioni fornite, senza ripetizioni.</P>
+		
+	<H2>File di input</H2>
+
+	<P>Il file di input, di nome <SAMP>input.txt</SAMP>, contiene sulla prima
+	riga il singolo intero <VAR>N</VAR> e sulla seconda il valore del contatore
+	<VAR>C</VAR>.  La terza riga contiene la lista delle lampade che
+	<EM>sicuramente</EM> sono accese nella configurazione finale, mentre la riga
+	sottostante (la quarta) contiene la lista dei numeri di lampade che
+	<EM>sicuramente</EM> sono spente nella configurazione finale.
+
+	<P>Non si possiedono informazioni sulle lampade il cui numero non compare in
+	nessuna delle due liste. Queste potranno quindi essere accese o spente,
+	nella configurazione finale.  Per la terza e la quarta riga vale la regola
+	che i numeri delle lampade che compaiono nella lista sono separati da spazio
+	e terminati da un -1.</P>
+	
+	<H2>File di output</H2>
+
+	<P>Il file di output, di nome <SAMP>output.txt</SAMP>, deve contenere tutte
+	le possibili configurazioni delle lampade che rispettano le informazioni
+	fornite nel file di input, senza ripetizioni. L'ordine con il quale le
+	configurazioni vengono elencate non &egrave; rilevante.  Ogni riga del file
+	di output deve contenere <VAR>N</VAR> caratteri, senza separatori. Il
+	carattere <VAR>i</VAR>-esimo rappresente lo stato dell'<VAR>i</VAR>-esima
+	lampada in quella particolare configurazione e pu&ograve; essere uguale solo
+	a 1 (che indica che la lampada &egrave; accesa) o 0 (lampada spenta).
+
+	
+	<H2>Assunzioni</H2>
+
+	<P>Si fanno le seguenti assunzioni:
+	<UL>
+	<LI>il tempo limite di esecuzione è fissato in 0.5 secondi;
+	<LI>10 &lt;= <VAR>N</VAR> &lt;= 400;
+	<LI>1 &lt;= <VAR>C</VAR> &lt;= 10000;
+	<LI>il numero di lampade  che si &egrave; sicuri siano accese nella 
+	configurazione finale &egrave; minore od uguale a 2;
+	<LI>il numero di lampade che si &egrave; sicuri siano spente
+	nella configurazione finale &egrave; minore od uguale a 2;
+	<LI>esiste almeno una possibile configurazione finale delle 
+	lampade che rispetta i vincoli imposti.
+	</UL>
+
+	<H2>Esempio di input/output</H2>
+	
+	<H3>File <SAMP>input.txt</SAMP></H3>
+	
+	<PRE>
+   10
+   1
+   -1
+   7 -1
+
+	</PRE>
+
+	<P>In questo caso ci sono 10 lampade e solo un bottone &egrave; stato
+	premuto. La lampada n. 7 &egrave; spenta nella configurazione finale.
+
+	<H3>File <SAMP>output.txt</SAMP></H3>
+	
+	<PRE>   
+   0000000000
+   0110110110
+   0101010101
+	</PRE>
+
+	<P>In questo caso ci sono tre possibili configurazioni finali:
+     <UL>	
+	<LI>tutte le lampade sono sono spente;
+	<LI>le lampade 1, 4, 7, 10 sono spente e le altre sono accese;
+	<LI>le lampade 1, 3, 5, 7, 9, sono spente e le altre sono accese.
+    </UL> 	
+</BODY>
+
+</HTML>

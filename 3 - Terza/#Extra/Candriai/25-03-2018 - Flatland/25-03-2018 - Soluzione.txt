@@ -1,0 +1,27 @@
+abcde
+<>><<
+^   ^
+tutti quelli che sono in posizione pari sono 0, poiché si rimmuovono a coppie.
+c, per sopravvivere, ab devono poter eliminarsi e de anche.
+
+Questa è programmazione dinamica.
+intervalli di N è n²
+
+per ogni dispari, prendi la parte a sinistra, la parte a destra e vedi se si uccidono.
+
+
+<>><><<
+
+
+prendiamo una tabella
+  abcdefg
+2 011010
+4 1110
+6 11
+8
+
+
+---
+Data una sequenza dispari ne rimane sempre 1
+una sequenza pari che finisce con < è distruggibile
+
